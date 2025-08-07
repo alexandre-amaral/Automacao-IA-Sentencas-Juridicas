@@ -223,4 +223,4 @@ results/
 
 # Fine-tuning checkpoints
 checkpoints/
-fine_tuned_models/
+fine_tuned_models/server/config.env
