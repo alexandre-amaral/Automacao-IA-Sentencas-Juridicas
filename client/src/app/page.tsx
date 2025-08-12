@@ -19,19 +19,21 @@ interface Task {
   message?: string
 }
 
+const API_URL = 'http://localhost:8000'
+
 export default function Home() {
   const [uploadedFiles, setUploadedFiles] = useState<UploadedFile[]>([])
   const [isProcessing, setIsProcessing] = useState(false)
   const [tasks, setTasks] = useState<Task[]>([])
   const [currentStep, setCurrentStep] = useState<string>('')
+  const [caseId, setCaseId] = useState<string>('')
 
   const initializeTasks = () => {
     const newTasks: Task[] = [
-      { id: '1', name: 'Análise de documentos', status: 'pending' },
-      { id: '2', name: 'Transcrição de áudio', status: 'pending' },
-      { id: '3', name: 'Extração de informações', status: 'pending' },
-      { id: '4', name: 'Consulta de jurisprudência', status: 'pending' },
-      { id: '5', name: 'Geração da sentença', status: 'pending' },
+      { id: '0', name: 'Upload de arquivos', status: 'pending' },
+      { id: '1', name: 'Transcrição de áudio', status: 'pending' },
+      { id: '2', name: 'Processamento com Gemini', status: 'pending' },
+      { id: '3', name: 'Geração da sentença', status: 'pending' },
     ]
     setTasks(newTasks)
   }
@@ -44,24 +46,88 @@ export default function Home() {
     )
   }
 
-  const simulateProcessing = async () => {
+  const uploadFiles = async () => {
+    console.log('🚀 Iniciando upload de arquivos...')
+    if (!uploadedFiles.length) return null
+
+    const formData = new FormData()
+    
+    uploadedFiles.forEach(fileData => {
+      console.log(`📎 Adicionando arquivo: ${fileData.file.name} (tipo: ${fileData.type})`)
+      if (fileData.type === 'processo') {
+        formData.append('processo', fileData.file)
+      } else if (fileData.type === 'audiencia') {
+        formData.append('audiencia', fileData.file)
+      }
+    })
+
+    console.log(`📡 Fazendo request para: ${API_URL}/upload-caso`)
+    
+    try {
+      const response = await fetch(`${API_URL}/upload-caso`, {
+        method: 'POST',
+        body: formData,
+      })
+
+      console.log(`📋 Response status: ${response.status} ${response.statusText}`)
+      console.log(`📋 Response headers:`, Object.fromEntries(response.headers.entries()))
+
+      if (!response.ok) {
+        const errorText = await response.text()
+        console.error(`❌ Upload falhou: ${response.status} - ${errorText}`)
+        throw new Error(`Upload falhou: ${response.statusText}`)
+      }
+
+      const result = await response.json()
+      console.log('✅ Upload bem-sucedido:', result)
+      return result.case_id
+    } catch (error) {
+      console.error('❌ Erro no upload:', error)
+      throw error
+    }
+  }
+
+  const processWithAPI = async (uploadedCaseId: string) => {
+    console.log(`🔄 Iniciando processamento do Case ID: ${uploadedCaseId}`)
+    
     const steps = [
-      { id: '1', name: 'Analisando documentos...', duration: 2000 },
-      { id: '2', name: 'Transcrevendo áudio...', duration: 3000 },
-      { id: '3', name: 'Extraindo informações...', duration: 2500 },
-      { id: '4', name: 'Consultando jurisprudência...', duration: 2000 },
-      { id: '5', name: 'Gerando sentença...', duration: 3000 },
+      { id: '1', name: 'Transcrevendo áudio...', endpoint: 'step1-transcribe' },
+      { id: '2', name: 'Processando com Gemini...', endpoint: 'step2-process' },
+      { id: '3', name: 'Gerando sentença com Claude...', endpoint: 'step3-generate' },
     ]
 
     for (const step of steps) {
+      console.log(`🎯 Executando: ${step.name}`)
       setCurrentStep(step.name)
       updateTaskStatus(step.id, 'running', step.name)
       
-      await new Promise(resolve => setTimeout(resolve, step.duration))
-      
-      updateTaskStatus(step.id, 'completed', 'Concluído')
+      try {
+        const url = `${API_URL}/${step.endpoint}/${uploadedCaseId}`
+        console.log(`📡 Request para: ${url}`)
+        
+        const response = await fetch(url, {
+          method: 'POST',
+        })
+
+        console.log(`📋 ${step.name} - Status: ${response.status} ${response.statusText}`)
+
+        if (!response.ok) {
+          const errorText = await response.text()
+          console.error(`❌ ${step.name} falhou: ${response.status} - ${errorText}`)
+          throw new Error(`${step.name} falhou: ${response.statusText}`)
+        }
+
+        const result = await response.json()
+        console.log(`✅ ${step.name} concluído:`, result)
+        updateTaskStatus(step.id, 'completed', result.message || 'Concluído')
+      } catch (error) {
+        console.error(`❌ Erro em ${step.name}:`, error)
+        updateTaskStatus(step.id, 'error', `Erro: ${error.message}`)
+        throw error
+      }
     }
     
+    console.log('🎉 Pipeline completo concluído!')
     setCurrentStep('Sentença gerada com sucesso! 🎉')
   }
 
@@ -70,9 +136,24 @@ export default function Home() {
     initializeTasks()
     
     try {
-      await simulateProcessing()
+      // ETAPA 0: Upload dos arquivos
+      setCurrentStep('Fazendo upload dos arquivos...')
+      updateTaskStatus('0', 'running', 'Upload em andamento...')
+      
+      const uploadedCaseId = await uploadFiles()
+      if (!uploadedCaseId) {
+        throw new Error('Falha no upload dos arquivos')
+      }
+      
+      setCaseId(uploadedCaseId)
+      updateTaskStatus('0', 'completed', `Arquivos enviados! Case ID: ${uploadedCaseId}`)
+      
+      // ETAPAS 1-3: Processamento com IA
+      await processWithAPI(uploadedCaseId)
+      
     } catch (error) {
       console.error('Erro no processamento:', error)
+      setCurrentStep(`Erro: ${error.message}`)
     } finally {
       setIsProcessing(false)
     }
@@ -198,7 +279,7 @@ export default function Home() {
           )}
 
           {/* Results Section */}
-          {tasks.length > 0 && tasks.every(t => t.status === 'completed') && (
+          {tasks.length > 0 && tasks.every(t => t.status === 'completed') && caseId && (
             <div className="bg-gradient-to-br from-green-50 to-emerald-50 border border-green-200 rounded-3xl shadow-xl p-8">
               <div className="text-center space-y-6">
                 <div className="space-y-4">
@@ -213,17 +294,31 @@ export default function Home() {
                     <p className="text-lg text-gray-600">
                       Sua minuta de sentença foi criada com sucesso e está pronta para revisão
                     </p>
+                    <p className="text-sm text-gray-500">
+                      Case ID: {caseId}
+                    </p>
                   </div>
                 </div>
                 
                 <div className="flex justify-center space-x-4">
-                  <button className="inline-flex items-center px-6 py-3 bg-white border border-gray-300 rounded-xl text-gray-700 font-medium hover:bg-gray-50 transition-colors duration-200 shadow-sm">
+                  <button 
+                    onClick={() => window.open(`${API_URL}/download/${caseId}/sentenca`, '_blank')}
+                    className="inline-flex items-center px-6 py-3 bg-white border border-gray-300 rounded-xl text-gray-700 font-medium hover:bg-gray-50 transition-colors duration-200 shadow-sm"
+                  >
                     <Scale className="w-5 h-5 mr-2" />
                     Visualizar Sentença
                   </button>
-                  <button className="inline-flex items-center px-6 py-3 bg-gradient-to-r from-green-600 to-emerald-600 text-white rounded-xl font-medium hover:from-green-700 hover:to-emerald-700 transition-all duration-200 shadow-lg">
+                  <button 
+                    onClick={() => {
+                      const link = document.createElement('a')
+                      link.href = `${API_URL}/download/${caseId}/sentenca`
+                      link.download = `sentenca_${caseId}.txt`
+                      link.click()
+                    }}
+                    className="inline-flex items-center px-6 py-3 bg-gradient-to-r from-green-600 to-emerald-600 text-white rounded-xl font-medium hover:from-green-700 hover:to-emerald-700 transition-all duration-200 shadow-lg"
+                  >
                     <Sparkles className="w-5 h-5 mr-2" />
-                    Download DOCX
+                    Download Sentença
                   </button>
                 </div>
               </div>
