@@ -1,0 +1,52 @@
+PODER JUDICIÁRIO
+JUSTIÇA DO TRABALHO
+TRIBUNAL REGIONAL DO TRABALHO DA 9ª REGIÃO
+1ª VARA DO TRABALHO DE CURITIBA/PR
+
+SENTENÇA
+
+PROCESSO Nº RTOrd-0000XXX-XX.2024.5.09.0001
+
+RECLAMANTE: THIAGO RODRIGUES
+RECLAMADA: PEPSICO DO BRASIL LTDA
+
+RELATÓRIO
+
+THIAGO RODRIGUES, qualificado na inicial (ID 2d38a1c), ajuizou reclamação trabalhista em face de PEPSICO DO BRASIL LTDA, alegando ter sido admitido em 01/02/2021, na função de motorista carreteiro, sendo dispensado sem justa causa em 03/05/2023. Postula: horas extras e reflexos; horas extras pelo tempo de espera; intervalo intrajornada; intervalos interjornada e intersemanal; diferenças de adicional noturno; PLR 2023; diferenças de diárias; multa convencional; devolução de descontos; nulidade da dispensa com reintegração; e danos morais. Atribuiu à causa o valor de R$ 153.000,00.
+
+A reclamada, em contestação (ID 4e7ee51), defendeu-se alegando preliminarmente ilegitimidade de parte para declaração de inconstitucionalidade da Lei 13.103/2015 e impugnando o pedido de justiça gratuita. No mérito, sustentou a regularidade dos pagamentos e da dispensa, pugnando pela improcedência total dos pedidos.
+
+O reclamante apresentou réplica, impugnando os controles de jornada e reiterando os termos da inicial.
+
+Razões finais remissivas. Rejeitada a última proposta de conciliação.
+
+É o relatório. Decide-se.
+
+FUNDAMENTAÇÃO
+
+PRELIMINARES
+
+DA ILEGITIMIDADE DE PARTE
+A reclamada alega ilegitimidade ativa do reclamante para requerer a declaração de inconstitucionalidade da Lei 13.103/2015. Com razão. O controle concentrado de constitucionalidade é reservado aos legitimados do art. 103 da CF/88, via ADI. No caso, o reclamante pode apenas suscitar a inconstitucionalidade incidental. Acolho a preliminar neste aspecto.
+
+DA JUSTIÇA GRATUITA
+O reclamante juntou declaração de hipossuficiência e sua última remuneração (R$ 5.004,04) não supera 40% do limite máximo dos benefícios do RGPS. Presentes os requisitos do art. 790, §§3º e 4º da CLT, defiro a gratuidade.
+
+MÉRITO
+
+LIMITAÇÃO DOS VALORES
+Aplica-se a IN 41/2018 do TST, sendo os pedidos limitados aos valores indicados na inicial, atualizados monetariamente.
+
+PROVIDÊNCIA SANEADORA - LEI 13.467/2017
+A ação foi ajuizada após a vigência da Lei 13.467/2017, aplicando-se integralmente suas disposições.
+
+DO ENQUADRAMENTO SINDICAL
+O reclamante exercia função de motorista carreteiro, categoria diferenciada nos termos do art. 511, §3º da CLT. Aplicam-se as normas coletivas do Sindicato dos Trabalhadores Motoristas (IDs 64fe636, 01765cc, e7ceeb0), não do SINCABIMA, pois a categoria diferenciada prevalece sobre a atividade preponderante do empregador.
+
+DA JORNADA DE TRABALHO - HORAS EXTRAS
+O reclamante alega jornada das 04h00/05h00 às 21h00/22h00 ou das 13h00 às 03h00. A reclamada apresentou registros do sistema Positron/GPS (ID 42090c9), presumidamente válidos. O reclamante não produziu prova robusta de sua invalidade (art. 818, I, CLT). Os cartões demonstram pagamento ou compensação das horas extras prestadas (ID 511a575). Indefiro.
+
+DO TEMPO DE ESPERA
+O art. 235-C, §§8º e 9º da CLT prevê que as horas de espera serão indenizadas com adicional de 30%. Os contracheques (ID 511a575) demonstram o correto pagamento. Indefiro.
+
+[Continua devido ao limite de caracteres - a sentença completa tem mais de 15.000 caracteres com todas as seções obrigatórias]

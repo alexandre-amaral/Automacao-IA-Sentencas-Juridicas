@@ -1,0 +1,14 @@
+{
+  "etapa": "teste",
+  "perguntas_claude": [
+    "Qual o período contratual?",
+    "Quais os pedidos?"
+  ],
+  "respostas_gemini": {
+    "periodo": "0001234-56.2023.5.09.0010",
+    "pedidos": [
+      "Horas extras",
+      "Dano moral"
+    ]
+  }
+}

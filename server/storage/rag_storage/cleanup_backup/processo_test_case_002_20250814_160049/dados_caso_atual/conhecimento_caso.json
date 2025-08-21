@@ -1,0 +1,41 @@
+{
+  "case_id": "test_case_002",
+  "timestamp": "2025-08-14T16:00:46.676299",
+  "processo": {
+    "numero": "0007890-12.2023.5.09.0020",
+    "partes": [
+      {
+        "nome": "Maria Santos",
+        "tipo": "requerente",
+        "qualificacao": ""
+      },
+      {
+        "nome": "Empresa B S.A.",
+        "tipo": "requerida",
+        "qualificacao": ""
+      }
+    ],
+    "pedidos": [
+      {
+        "descricao": "Verbas rescisórias",
+        "categoria": "rescisao",
+        "valor_estimado": ""
+      },
+      {
+        "descricao": "Intervalo intrajornada",
+        "categoria": "jornada",
+        "valor_estimado": ""
+      }
+    ],
+    "fatos_relevantes": [
+      {
+        "descricao": "Fato teste",
+        "fonte": "inicial"
+      }
+    ],
+    "periodo_contratual": "01/2022 a 12/2023",
+    "valor_causa": "R$ 10.000,00",
+    "fundamentacao_resumida": null
+  },
+  "audiencia": null
+}

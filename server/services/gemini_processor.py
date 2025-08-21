@@ -26,6 +26,9 @@ class PedidoProcesso:
     categoria: str  # ex: "verbas_rescisórias", "horas_extras", "dano_moral"
     valor_estimado: Optional[str] = None
     deferido: Optional[bool] = None
+    fundamentacao_decisao: Optional[str] = None
+    criterios_calculo: Optional[str] = None
+    periodo_aplicacao: Optional[str] = None
 
 @dataclass
 class FatoRelevante:
@@ -33,6 +36,25 @@ class FatoRelevante:
     descricao: str
     fonte: str  # "inicial", "defesa", "testemunha", "perícia"
     impacto_decisao: Optional[str] = None
+    detalhes_prova: Optional[str] = None
+    contradições: Optional[str] = None
+
+@dataclass
+class TestemunhaDepoimento:
+    """Depoimento de testemunha"""
+    nome: str
+    parte_convite: str  # "requerente" ou "requerida"
+    resumo_depoimento: str
+    pontos_relevantes: List[str]
+    contradições: Optional[str] = None
+
+@dataclass
+class NormaColetiva:
+    """Norma coletiva aplicável"""
+    sindicato: str
+    vigencia: str
+    clausulas_relevantes: List[str]
+    valores_previstos: Dict[str, str]
 
 @dataclass
 class ProcessoEstruturado:
@@ -41,12 +63,25 @@ class ProcessoEstruturado:
     partes: List[ParteProcesso]
     pedidos: List[PedidoProcesso]
     fatos_relevantes: List[FatoRelevante]
+    testemunhas: List[TestemunhaDepoimento]
+    normas_coletivas: List[NormaColetiva]
     periodo_contratual: Optional[str]
     valor_causa: Optional[str]
     competencia: Optional[str]
     jurisprudencias_citadas: List[str]
     decisao_final: Optional[str]
     fundamentacao_resumida: Optional[str]
+    # Campos adicionais para melhor extração com valores padrão
+    funcao_cargo: Optional[str] = None
+    salario_inicial: Optional[str] = None
+    salario_final: Optional[str] = None
+    jornada_contratual: Optional[str] = None
+    motivo_rescisao: Optional[str] = None
+    afastamentos: Optional[List[str]] = None
+    documentos_relevantes: Optional[List[str]] = None
+    preliminares: Optional[List[str]] = None
+    honorarios_fixados: Optional[str] = None
+    custas_processuais: Optional[str] = None
 
 class GeminiProcessor:
     """Processador de processos jurídicos usando Google Gemini"""
@@ -118,33 +153,64 @@ TEXTO DO PROCESSO:
         
         prompt_instrucoes = """
 
-INSTRUÇÕES DE EXTRAÇÃO:
+INSTRUÇÕES DE EXTRAÇÃO DETALHADA:
 
 1. IDENTIFIQUE AS PARTES:
    - Nome completo do requerente (trabalhador)
    - Nome completo da empresa requerida
-   - Qualificações mencionadas
+   - Qualificações completas (endereço, CPF/CNPJ quando mencionados)
+   - Função exercida e admissão/demissão
 
-2. EXTRAIA OS PEDIDOS:
-   - Liste todos os pedidos formulados
-   - Categorize cada pedido (verbas rescisórias, horas extras, dano moral, etc.)
-   - Identifique valores quando mencionados
+2. EXTRAIA TODOS OS PEDIDOS ESPECÍFICOS:
+   - Horas extras e reflexos (percentual, período)
+   - Intervalo intrajornada, interjornada, intersemanal
+   - Tempo de espera/sobreaviso
+   - Adicional noturno, insalubridade, periculosidade
+   - Participação nos lucros/resultados (PLR/PPR)
+   - Diferenças de diárias/ajuda de custo
+   - Verbas rescisórias e reflexos
+   - Multas convencionais específicas
+   - Descontos questionados
+   - Danos morais e valores
+   - Reintegração/estabilidade
+   - Reconhecimento de vínculo
+   - FGTS e reflexos
+   - Categorize cada pedido precisamente
 
-3. IDENTIFIQUE FATOS RELEVANTES:
-   - Fatos alegados na inicial
-   - Argumentos da defesa
-   - Depoimentos e testemunhas
-   - Resultados de perícias
+3. MAPEIE FATOS PROBATÓRIOS DETALHADOS:
+   - Alegações específicas da inicial com detalhes
+   - Argumentos defensivos da empresa
+   - Nomes e depoimentos completos de testemunhas
+   - Resultados de perícias e laudos
+   - Documentos apresentados pelas partes
+   - Controles de ponto e jornada
+   - Normas coletivas aplicáveis
+   - Contradições probatórias importantes
 
-4. INFORMAÇÕES CONTRATUAIS:
-   - Período de trabalho (admissão e rescisão)
-   - Função exercida
-   - Salário quando mencionado
+4. EXTRAIA INFORMAÇÕES CONTRATUAIS COMPLETAS:
+   - Data exata de admissão e demissão
+   - Função/cargo detalhado
+   - Salário e evolutivo salarial
+   - Jornada contratual
+   - Local de trabalho
+   - Benefícios concedidos
+   - Afastamentos e licenças
 
-5. DECISÃO E FUNDAMENTAÇÃO:
-   - Resumo da fundamentação
-   - Decisão final (procedente/improcedente/parcial)
-   - Jurisprudências citadas
+5. ANALISE JURISPRUDÊNCIA E LEGISLAÇÃO:
+   - Súmulas do TST citadas
+   - Orientações jurisprudenciais
+   - Leis específicas (CLT, Lei 13.103/2015, etc.)
+   - Decisões do STF (ADIs, ADCs)
+   - Precedentes mencionados
+   - Normas coletivas da categoria
+
+6. DECISÃO E FUNDAMENTAÇÃO DETALHADA:
+   - Resumo completo da fundamentação por tópico
+   - Decisão específica para cada pedido
+   - Valores deferidos quando mencionados
+   - Critérios de cálculo estabelecidos
+   - Honorários advocatícios fixados
+   - Custas processuais
 
 FORMATO DE RESPOSTA (JSON):
 {
@@ -254,17 +320,55 @@ Responda APENAS com o JSON estruturado, sem texto adicional.
             )
             fatos_relevantes.append(fato)
         
+        # Converter testemunhas (com valores padrão)
+        testemunhas = []
+        for testemunha_data in dados_json.get('testemunhas', []):
+            if isinstance(testemunha_data, dict):
+                testemunha = TestemunhaDepoimento(
+                    nome=testemunha_data.get('nome', ''),
+                    parte_convite=testemunha_data.get('parte_convite', ''),
+                    resumo_depoimento=testemunha_data.get('resumo_depoimento', ''),
+                    pontos_relevantes=testemunha_data.get('pontos_relevantes', []),
+                    contradições=testemunha_data.get('contradições')
+                )
+                testemunhas.append(testemunha)
+        
+        # Converter normas coletivas (com valores padrão)
+        normas_coletivas = []
+        for norma_data in dados_json.get('normas_coletivas', []):
+            if isinstance(norma_data, dict):
+                norma = NormaColetiva(
+                    sindicato=norma_data.get('sindicato', ''),
+                    vigencia=norma_data.get('vigencia', ''),
+                    clausulas_relevantes=norma_data.get('clausulas_relevantes', []),
+                    valores_previstos=norma_data.get('valores_previstos', {})
+                )
+                normas_coletivas.append(norma)
+        
         return ProcessoEstruturado(
             numero_processo=dados_json.get('numero_processo'),
             partes=partes,
             pedidos=pedidos,
             fatos_relevantes=fatos_relevantes,
+            testemunhas=testemunhas,
+            normas_coletivas=normas_coletivas,
             periodo_contratual=dados_json.get('periodo_contratual'),
             valor_causa=dados_json.get('valor_causa'),
             competencia=dados_json.get('competencia'),
             jurisprudencias_citadas=dados_json.get('jurisprudencias_citadas', []),
             decisao_final=dados_json.get('decisao_final'),
-            fundamentacao_resumida=dados_json.get('fundamentacao_resumida')
+            fundamentacao_resumida=dados_json.get('fundamentacao_resumida'),
+            # Campos adicionais com valores padrão
+            funcao_cargo=dados_json.get('funcao_cargo'),
+            salario_inicial=dados_json.get('salario_inicial'),
+            salario_final=dados_json.get('salario_final'),
+            jornada_contratual=dados_json.get('jornada_contratual'),
+            motivo_rescisao=dados_json.get('motivo_rescisao'),
+            afastamentos=dados_json.get('afastamentos'),
+            documentos_relevantes=dados_json.get('documentos_relevantes'),
+            preliminares=dados_json.get('preliminares'),
+            honorarios_fixados=dados_json.get('honorarios_fixados'),
+            custas_processuais=dados_json.get('custas_processuais')
         )
     
     def gerar_termos_jurisprudencia(self, processo: ProcessoEstruturado) -> List[str]:

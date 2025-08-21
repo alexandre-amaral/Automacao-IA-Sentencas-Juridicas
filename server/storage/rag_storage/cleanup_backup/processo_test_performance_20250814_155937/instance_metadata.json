@@ -1,0 +1,14 @@
+{
+  "case_id": "test_performance",
+  "created_at": "2025-08-14T15:59:37.530613",
+  "status": "active",
+  "namespace": "processo_test_performance",
+  "directories": {
+    "instance_root": "/Users/alexandre/Documents/projects/Automacao-IA-Sentencas-Juridicas/server/storage/rag_storage/processo_test_performance",
+    "estilo_juiza": "/Users/alexandre/Documents/projects/Automacao-IA-Sentencas-Juridicas/server/storage/rag_storage/processo_test_performance/estilo_juiza",
+    "dados_caso": "/Users/alexandre/Documents/projects/Automacao-IA-Sentencas-Juridicas/server/storage/rag_storage/processo_test_performance/dados_caso_atual",
+    "contexto_dialogo": "/Users/alexandre/Documents/projects/Automacao-IA-Sentencas-Juridicas/server/storage/rag_storage/processo_test_performance/contexto_dialogo",
+    "temp_generation": "/Users/alexandre/Documents/projects/Automacao-IA-Sentencas-Juridicas/server/storage/rag_storage/processo_test_performance/temp_generation",
+    "final_output": "/Users/alexandre/Documents/projects/Automacao-IA-Sentencas-Juridicas/server/storage/rag_storage/processo_test_performance/final_output"
+  }
+}

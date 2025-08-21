@@ -1,0 +1,10 @@
+{
+  "case_id": "test_case_002",
+  "path": "/Users/alexandre/Documents/projects/Automacao-IA-Sentencas-Juridicas/server/storage/rag_storage/processo_test_case_002/chroma_db",
+  "collections": [
+    "estilo_juiza_test_case_002",
+    "caso_atual_test_case_002",
+    "contexto_dialogo_test_case_002"
+  ],
+  "created_at": "2025-08-14T16:00:45.504302"
+}

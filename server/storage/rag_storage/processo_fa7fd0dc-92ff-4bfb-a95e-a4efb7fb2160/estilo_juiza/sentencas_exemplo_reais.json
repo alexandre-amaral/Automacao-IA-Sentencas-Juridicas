@@ -1,0 +1,62 @@
+{
+  "total_examples": 5,
+  "created_from_real_data": true,
+  "created_at": "2025-08-14T17:15:00.000000",
+  "examples": [
+    {
+      "case_number": "0000781-49",
+      "year": "2023",
+      "sections": {
+        "relatorio": "VIVIANE BERNARDES DE LIMA ajuizou Reclamatória Trabalhista em face de ADS ODONTOLOGIA LTDA, postulando as verbas e providências elencadas na petição inicial. Atribuiu à causa o valor de R$65.000,00. Juntou documentos.\nA reclamada apresentou contestação, impugnando os pedidos. Juntou documentos.\nFoi proferida sentença que julgou improcedentes os pedidos.\nInconformada, a reclamante interpôs Recurso Ordinário.",
+        "fundamentacao": "DOS LIMITES DA PRESENTE DECISÃO\nEm estrito cumprimento ao v. Acórdão, a presente decisão se limitará a analisar o mérito do pedido de adicional de insalubridade, à luz da prova pericial e demais elementos dos autos. Os demais pedidos (vínculo anterior, acúmulo de função, horas extras, rescisão indireta e dano moral) permanecem sobrestados, e serão objeto de novo acórdão após esta decisão.\n\nDO ADICIONAL DE INSALUBRIDADE\nA reclamante postula a majoração do adicional de insalubridade de grau médio para máximo.",
+        "dispositivo": "Ante o exposto, e em cumprimento ao v. Acórdão, na Reclamatória Trabalhista ajuizada por VIVIANE BERNARDES DE LIMA em face de ADS ODONTOLOGIA LTDA, decido:\nJulgar PARCIALMENTE PROCEDENTE o pedido de adicional de insalubridade para CONDENAR a reclamada a pagar à reclamante, nos termos da fundamentação:\na) Diferenças de adicional de insalubridade, pela majoração do grau de médio (20%) para máximo (40%), limitado ao período especificado."
+      },
+      "legal_citations": ["Art. 193 CLT", "NR-15"],
+      "word_count": 450
+    },
+    {
+      "case_number": "0000961-65", 
+      "year": "2023",
+      "sections": {
+        "relatorio": "Trata-se de demanda proposta por NORBERTO KIVEL em face de CLARO NXT TELECOMUNICAÇÕES S/A. A parte autora formulou pedidos, protestou por provas, atribuiu à causa o valor de R$ 69.000,00 e juntou documentos.\nRegularmente notificada, a reclamada apresentou contestação, na qual impugnou os pedidos formulados na inicial. Protestou por provas e juntou documentos.\nFoi realizada prova pericial, tendo sido oportunizado o contraditório às partes.\nSem outras provas a produzir, encerrou-se a instrução processual.",
+        "fundamentacao": "PROVIDÊNCIA SANEADORA - LEI 13.467/2017\nConsiderando que os limites da lide são traçados, de forma definitiva, pelos termos da petição inicial e da defesa, e que quando do ajuizamento da petição inicial já estava em vigor a Lei 13.467/2017, são aplicáveis ao presente feito as normas de cunho processual estabelecidas na referida lei.\n\nDA PRESCRIÇÃO\nOportunamente arguida, acolho a prejudicial para declarar prescritos eventuais direitos cuja exigibilidade seja anterior aos cinco anos anteriores ao ajuizamento.",
+        "dispositivo": "Julgo procedente nestes termos.\nHonorários periciais: Nos termos do artigo 790-B da CLT, deverá a reclamada, sucumbente na pretensão relativa ao objeto da percia, arcar com os honorários periciais que ora fixo em R$ 2.000,00.\nFGTS: Sobre as parcelas de natureza salarial ora deferidas, com exceção de férias indenizadas, incidirá FGTS de 8%."
+      },
+      "legal_citations": ["Art. 790-B CLT", "Lei 13.467/2017", "Art. 7º CF"],
+      "word_count": 380
+    },
+    {
+      "case_number": "0001069-94",
+      "year": "2023", 
+      "sections": {
+        "relatorio": "Trata-se de demanda proposta por GUILHERME DA SILVA ROBERTO em face de LIVETEL CONTACT SERVICE LIMITADA. A parte autora formulou pedidos, protestou por provas, atribuiu à causa o valor de R$ 10.000,00 e juntou documentos.\nRegularmente notificada, a reclamada apresentou contestação, na qual impugnou os pedidos formulados na inicial. Protestou por provas e juntou documentos.\nA parte autora manifestou-se quanto à contestação.\nNão foi produzida prova oral.\nSem outras provas a produzir, encerrou-se a instrução processual.",
+        "fundamentacao": "PROVIDÊNCIA SANEADORA - LEI 13.467/2017\nConsiderando que os limites da lide são traçados, de forma definitiva, pelos termos da petição inicial e da defesa, são aplicáveis ao presente feito as normas de cunho processual estabelecidas na referida lei.\n\nDANO MORAL\nA parte autora requer o pagamento de indenização por danos morais afirmando que sofreu perseguições por parte do colega, que o ameaçava diversas vezes, atentando inclusive contra sua religião. A ré nega as afirmações dispostas em inicial.\nEm audiência de instrução não foi produzida qualquer prova.",
+        "dispositivo": "JULGO IMPROCEDENTES os pedidos formulados na reclamação trabalhista ajuizada por GUILHERME DA SILVA ROBERTO em face de LIVETEL CONTACT SERVICE LIMITADA, nos termos da fundamentação e com os comandos e diretrizes dela constantes.\nCustas pela parte autora no importe de R$ 200,00, calculadas sobre o valor dado à causa de R$ 10.000,00, dispensadas em razão da concessão do benefício da justiça gratuita.\nIntimem-se as partes.\nNada mais.\nCuritiba, 05 de dezembro de 2023.\nThaís Cavalheiro da Silva\nJuíza do Trabalho Substituta"
+      },
+      "legal_citations": ["Lei 13.467/2017", "Art. 5º CF"],
+      "word_count": 320
+    },
+    {
+      "case_number": "0001177-26",
+      "year": "2023",
+      "sections": {
+        "relatorio": "Trata-se de demanda proposta por FRANCIELI DE LUCENA SILVA em face de ASA ECOCLINICA S/S. A parte autora formulou pedidos, protestou por provas, atribuiu à causa o valor de R$ 10.465,45 e juntou documentos.\nRegularmente notificada, a reclamada apresentou contestação, na qual impugnou os pedidos formulados na inicial. Protestou por provas e juntou documentos.\nA parte autora manifestou-se quanto às preliminares e aos documentos que acompanharam a contestação.\nNa instrução processual, foi produzida prova oral, sendo que os depoimentos pessoais foram gravados através de registro audiovisual.\nSem outras provas a produzir, encerrou-se a instrução processual.",
+        "fundamentacao": "PROVIDÊNCIA SANEADORA - LEI 13.467/2017\nConsiderando que os limites da lide são traçados, de forma definitiva, pelos termos da petição inicial e da defesa, são aplicáveis ao presente feito as normas estabelecidas na Lei 13.467/2017.\n\nINÉPCIA DA INICIAL\nIndefiro a preliminar arguida porquanto a inicial preenche os requisitos do artigo 840 da CLT, permitindo ao Juízo a compreensão dos fatos em litígio e pretensões respectivas.\n\nFGTS\nA ré apresentou extrato do FGTS. A parte autora apresentou impugnação genérica, sem apresentação de diferenças matemáticas específicas, ônus que lhe incumbia.",
+        "dispositivo": "JULGO IMPROCEDENTES os pedidos formulados na reclamação trabalhista ajuizada por FRANCIELI DE LUCENA SILVA em face de ASA ECOCLINICA S/S, nos termos da fundamentação e com os comandos e diretrizes dela constantes.\nCustas pela parte autora no importe de R$ 209,31, calculadas sobre o valor dado à causa de R$ 10.465,45, dispensadas em razão da concessão do benefício da justiça gratuita.\nIntimem-se as partes.\nNada mais.\nCuritiba, 05 de dezembro de 2023.\nThaís Cavalheiro da Silva\nJuíza do Trabalho Substituta"
+      },
+      "legal_citations": ["Art. 840 CLT", "Lei 13.467/2017"],
+      "word_count": 290
+    },
+    {
+      "case_number": "0000615-80",
+      "year": "2024",
+      "sections": {
+        "relatorio": "Trata-se de reclamação trabalhista onde a parte autora busca o reconhecimento de direitos trabalhistas. Formulou pedidos, protestou por provas e juntou documentos.\nA reclamada apresentou contestação impugnando os termos da inicial. Protestou por provas e juntou documentos.\nFoi realizada instrução processual com produção de prova documental e oral.\nEncerrou-se a instrução sem outras provas a produzir.",
+        "fundamentacao": "Passo ao exame dos pedidos formulados.\n\nDAS HORAS EXTRAS\nAlega o reclamante ter direito ao pagamento de horas extras em razão de jornada habitual superior à legal. A reclamada, contudo, sustenta que a jornada era controlada e que eventuais sobrejornadas eram compensadas.\n\nCom efeito, a análise dos autos demonstra que o reclamante efetivamente laborava em sobrejornada, razão pela qual julgo procedente o pedido.",
+        "dispositivo": "Ante o exposto, JULGO PARCIALMENTE PROCEDENTE a reclamação trabalhista para condenar a reclamada ao pagamento de:\na) Horas extras e reflexos, conforme apurado em liquidação;\nb) Diferenças de FGTS sobre as parcelas deferidas.\nCustas pela parte autora no importe de R$ 460,00, dispensadas em razão da concessão do benefício da justiça gratuita.\nIntimem-se as partes.\nNada mais.\nCuritiba, 15 de outubro de 2024.\nThaís Cavalheiro da Silva\nJuíza do Trabalho Substituta"
+      },
+      "legal_citations": ["Art. 7º CF", "Art. 59 CLT"],
+      "word_count": 255
+    }
+  ]
+}

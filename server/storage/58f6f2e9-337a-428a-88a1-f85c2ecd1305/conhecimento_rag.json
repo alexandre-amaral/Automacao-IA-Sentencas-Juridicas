@@ -1,0 +1,280 @@
+{
+  "case_id": "58f6f2e9-337a-428a-88a1-f85c2ecd1305",
+  "timestamp": "2025-08-15T00:51:39.514718",
+  "processo": {
+    "numero": "0000398-03.2024.5.09.0010",
+    "partes": [
+      {
+        "nome": "THIAGO RODRIGUES",
+        "tipo": "requerente",
+        "qualificacao": "brasileiro, casado, motorista, portador da cédula de identidade RG nº 71431657 - SESP-PR e inscrito no CPF sob nº 006.838.439-40, portador da CTPS nº 3815425, Série 003-0 - PR, inscrito no PIS sob nº 127.56648.53-3, residente e domiciliado na Rua Constante Moro Sobrinho, nº 1120, casa 195, Bairro Quississana, São José dos Pinhais - PR, CEP 83.085-300"
+      },
+      {
+        "nome": "PEPSICO DO BRASIL LTDA",
+        "tipo": "requerida",
+        "qualificacao": "pessoa jurídica de direito privado, inscrita no CNPJ sob o nº 31.565.104/0317-22, com endereço na Rua Francisco Sobania, nº 1.395, Bairro CIC - Curitiba - PR – CEP 81.460-130"
+      }
+    ],
+    "pedidos": [
+      {
+        "descricao": "Aplicação das normas coletivas CCT’s do SINCABIMA – Sindicato das Indústrias de Cacau e Balas, Massas Alimentícias e Biscoitos, de Doce e Conservas Alimentícias do Estado do Paraná.",
+        "categoria": "Enquadramento Sindical",
+        "valor_estimado": "R$ 5.000,00"
+      },
+      {
+        "descricao": "Pagamento de horas extras excedentes da 7h20min diária e 44ª semanal (ou 8ª diária e 44ª semanal, sucessivamente), com adicionais legais e reflexos.",
+        "categoria": "Horas Extras",
+        "valor_estimado": "R$ 40.000,00"
+      },
+      {
+        "descricao": "Pagamento de horas extras pela supressão do intervalo intrajornada.",
+        "categoria": "Horas Extras - Intervalo Intrajornada",
+        "valor_estimado": "R$ 5.000,00"
+      },
+      {
+        "descricao": "Reconhecimento do tempo de espera como tempo à disposição, com pagamento de horas extras e reflexos.",
+        "categoria": "Tempo de Espera",
+        "valor_estimado": "R$ 15.000,00"
+      },
+      {
+        "descricao": "Pagamento de diferenças de horas de tempo de espera (30% do salário-hora normal), sucessivamente.",
+        "categoria": "Tempo de Espera",
+        "valor_estimado": "R$ 5.000,00"
+      },
+      {
+        "descricao": "Pagamento de horas extras pela violação dos intervalos interjornada (11 horas) e intersemanal (35 horas).",
+        "categoria": "Horas Extras - Intervalos Interjornada e Intersemanal",
+        "valor_estimado": "R$ 5.000,00"
+      },
+      {
+        "descricao": "Pagamento de diferenças de adicional noturno, com integração na remuneração e reflexos.",
+        "categoria": "Adicional Noturno",
+        "valor_estimado": "R$ 3.000,00"
+      },
+      {
+        "descricao": "Reflexos das horas extras em DSR, 13º salário, férias + 1/3, PPR, indenização (art. 9º, Lei 7.238/84), aviso prévio indenizado, FGTS + 40%.",
+        "categoria": "Reflexos Horas Extras",
+        "valor_estimado": "R$ 15.000,00"
+      },
+      {
+        "descricao": "Pagamento de diárias/ajuda de custo para viagem.",
+        "categoria": "Diárias de Viagem",
+        "valor_estimado": "R$ 10.000,00"
+      },
+      {
+        "descricao": "Pagamento de Participação nos Resultados (PPR) proporcional de 2023.",
+        "categoria": "Participação nos Lucros e Resultados",
+        "valor_estimado": "R$ 2.000,00"
+      },
+      {
+        "descricao": "Pagamento de multa convencional.",
+        "categoria": "Multa Convencional",
+        "valor_estimado": "R$ 3.000,00"
+      },
+      {
+        "descricao": "Ressarcimento de descontos indevidos (\"Líquido Adiantamento PepsiCo\", \"Desc. Insuf De Saldo\", \"Desc. Insuf. De Saldo Li\").",
+        "categoria": "Descontos Indevidos",
+        "valor_estimado": "R$ 25.000,00"
+      },
+      {
+        "descricao": "Nulidade da dispensa e reintegração ao emprego, com pagamento de remuneração, vantagens e benefícios.",
+        "categoria": "Nulidade da Dispensa / Reintegração",
+        "valor_estimado": null
+      },
+      {
+        "descricao": "Indenização em dobro, sucessivamente.",
+        "categoria": "Nulidade da Dispensa / Indenização",
+        "valor_estimado": "R$ 25.000,00"
+      },
+      {
+        "descricao": "Indenização por danos morais (constrangimento e humilhação).",
+        "categoria": "Dano Moral",
+        "valor_estimado": "R$ 10.000,00"
+      },
+      {
+        "descricao": "Indenização por danos morais (dispensa discriminatória).",
+        "categoria": "Dano Moral - Dispensa Discriminatória",
+        "valor_estimado": null
+      },
+      {
+        "descricao": "Concessão da assistência judiciária gratuita.",
+        "categoria": "Justiça Gratuita",
+        "valor_estimado": null
+      },
+      {
+        "descricao": "Honorários de sucumbência (15% do valor bruto da condenação).",
+        "categoria": "Honorários Advocatícios",
+        "valor_estimado": "R$ 20.000,00"
+      }
+    ],
+    "fatos_relevantes": [
+      {
+        "descricao": "Reclamante trabalhou em jornada extraordinária, sem o pagamento correto de horas extras, inclusive em domingos e feriados.",
+        "fonte": "inicial"
+      },
+      {
+        "descricao": "Reclamante sofreu manipulação nos controles de jornada e anotação de intervalos fictícios.",
+        "fonte": "inicial"
+      },
+      {
+        "descricao": "Reclamante estava à disposição da empresa durante o tempo de espera, carregamento e descarregamento.",
+        "fonte": "inicial"
+      },
+      {
+        "descricao": "Reclamante não usufruía integralmente do intervalo intrajornada.",
+        "fonte": "inicial"
+      },
+      {
+        "descricao": "Reclamante teve os intervalos interjornada e intersemanal desrespeitados.",
+        "fonte": "inicial"
+      },
+      {
+        "descricao": "Reclamante trabalhava em horário noturno, sem o pagamento correto do adicional e a devida redução da hora noturna.",
+        "fonte": "inicial"
+      },
+      {
+        "descricao": "Reclamante não recebeu a PPR de 2023.",
+        "fonte": "inicial"
+      },
+      {
+        "descricao": "Reclamante realizava viagens e custeava despesas com alimentação e pernoite, recebendo diárias inferiores aos valores previstos na CCT.",
+        "fonte": "inicial"
+      },
+      {
+        "descricao": "Reclamada descumpriu cláusulas convencionais, gerando o direito à multa.",
+        "fonte": "inicial"
+      },
+      {
+        "descricao": "Reclamante sofreu descontos indevidos.",
+        "fonte": "inicial"
+      },
+      {
+        "descricao": "Reclamante foi dispensado enquanto doente e sem aptidão clínica, configurando dispensa discriminatória.",
+        "fonte": "inicial"
+      },
+      {
+        "descricao": "Reclamante foi constrangido e humilhado pela reclamada, inclusive no momento da dispensa.",
+        "fonte": "inicial"
+      },
+      {
+        "descricao": "Reclamada impugnou os pedidos, alegando que as normas coletivas apresentadas pelo reclamante não se aplicam ao caso, que as horas extras, adicional noturno, tempo de espera e diárias foram pagos corretamente, que não houve supressão de intervalos, que a PPR é facultativa e foi paga, que os descontos foram legais, que a dispensa não foi discriminatória nem nula, e que não houve dano moral.",
+        "fonte": "defesa"
+      },
+      {
+        "descricao": "Reclamada apresentou controles de jornada, recibos de pagamento, contrato de trabalho, descrição do cargo e normas coletivas como prova de suas alegações.",
+        "fonte": "defesa"
+      },
+      {
+        "descricao": "Testemunhas da parte autora (Claudinei e Clodoaldo - prova emprestada) confirmaram a jornada excessiva, a falta de pagamento correto de horas extras e intervalos, e o constrangimento na dispensa.",
+        "fonte": "prova emprestada"
+      },
+      {
+        "descricao": "Testemunha do réu (Wesley) confirmou o pagamento correto das horas extras e o cumprimento da jornada.",
+        "fonte": "depoimento"
+      },
+      {
+        "descricao": "Reclamada juntou extratos bancários do cartão corporativo para comprovar o pagamento das diárias.",
+        "fonte": "documentos"
+      },
+      {
+        "descricao": "Reclamante impugnou os documentos da reclamada, alegando que não refletem a realidade dos fatos.",
+        "fonte": "impugnação"
+      },
+      {
+        "descricao": "Reclamante apresentou cálculos de horas extras.",
+        "fonte": "impugnação"
+      },
+      {
+        "descricao": "Juíza indeferiu o pedido da reclamada para realização de audiência telepresencial.",
+        "fonte": "despacho"
+      },
+      {
+        "descricao": "Juíza determinou que a reclamada apresentasse os relatórios de despesas de viagem (RDV) e extratos do cartão corporativo.",
+        "fonte": "despacho"
+      },
+      {
+        "descricao": "Reclamada juntou extratos do cartão corporativo, mas não os RDVs.",
+        "fonte": "documentos"
+      },
+      {
+        "descricao": "Reclamante impugnou os extratos e reiterou o pedido de juntada dos RDVs.",
+        "fonte": "impugnação"
+      },
+      {
+        "descricao": "Juíza reiterou a intimação à reclamada para juntada dos RDVs.",
+        "fonte": "despacho"
+      },
+      {
+        "descricao": "Reclamada juntou novamente extratos do cartão corporativo.",
+        "fonte": "documentos"
+      },
+      {
+        "descricao": "Reclamante impugnou os extratos e reiterou o pedido de juntada dos RDVs.",
+        "fonte": "impugnação"
+      },
+      {
+        "descricao": "Juíza aplicou a modulação de efeitos da decisão do STF sobre o tempo de espera.",
+        "fonte": "manifestação da ré"
+      },
+      {
+        "descricao": "Reclamante alegou que o tempo de espera deve ser considerado hora extra, conforme a ADI 5322 do STF.",
+        "fonte": "manifestação do autor"
+      },
+      {
+        "descricao": "Reclamada impugnou a prova emprestada.",
+        "fonte": "impugnação"
+      },
+      {
+        "descricao": "Preposta da reclamada não foi ouvida na audiência de instrução.",
+        "fonte": "certidão"
+      }
+    ],
+    "periodo_contratual": "01/02/2021 a 03/05/2023",
+    "valor_causa": "R$ 153.000,00",
+    "fundamentacao_resumida": null
+  },
+  "audiencia": {
+    "depoentes": [
+      {
+        "nome": "Thiago",
+        "tipo": "autor",
+        "resumo_depoimento": "Alega jornada extensa, das 5h às 21h, com chegada antecipada de 1 hora para procedimentos pré-viagem. Afirma que o caminhão nunca estava pronto e aguardava de 3 a 4 horas.  Registrava a jornada apenas ao sair do portão. Intervalos de 30 minutos para refeição e mais 2 a 3 intervalos de 30 minutos. Discrepância entre horas registradas no pósitron e horas extras recebidas. Diária de R$ 1.200,00 mensal, utilizada para alimentação, borracharia e lavagem, com reembolso pela empresa. Utilização de bitrem por um ano, inclusive à noite em rodovias duplicadas."
+      },
+      {
+        "nome": "Vinícius",
+        "tipo": "testemunha_autor",
+        "resumo_depoimento": "Trabalhou na mesma empresa que o autor, mas em rotas diferentes, porém, com as mesmas condições. Confirma diária mensal de R$1.200,00, valor inferior ao pago pelo sindicato, segundo ele. Diária utilizada para alimentação, com gastos adicionais de até R$2.000,00 por mês. Relatório de despesas e em média 26 dias de viagem por mês. Cartão corporativo usado para borracharia e lavagem, com diárias pagas separadamente. Abastecimento por CTF e pedágio por TAG. Presenciou a dispensa do autor e posterior cancelamento, e depois a dispensa definitiva, com comentários de que o motivo seria a cirurgia de coluna do autor."
+      },
+      {
+        "nome": "Wesley",
+        "tipo": "testemunha_reclamada",
+        "resumo_depoimento": "Trabalha na empresa desde fevereiro/21, atualmente como instrutor. Registro de jornada por aplicativo ou pósitron, ao chegar na empresa. Espera eventual por carga, documentação ou manutenção.  Jornada com intervalos obrigatórios de 30 minutos após 4 horas de direção e 1 hora de refeição. Viagem mais longa para Pelotas, pernoitando em Três Cachoeiras. Viagem mais curta para Gaspar. Respeito ao intervalo de 11h entre jornadas.  Diárias por cartão corporativo, com base no sindicato, para café, almoço, jantar e pernoite. Banho reembolsado à parte. Demais gastos com cartão corporativo."
+      }
+    ],
+    "pontos_controvertidos": [
+      {
+        "tema": "Jornada de Trabalho",
+        "posicao_autor": "Jornada extensa, com horas extras não pagas corretamente. Registro de jornada somente após carregamento do caminhão, com espera não contabilizada.",
+        "posicao_reclamada": "Jornada registrada corretamente, com intervalos respeitados. Registro ao chegar na empresa, independente do carregamento."
+      },
+      {
+        "tema": "Diárias",
+        "posicao_autor": "Diária de R$ 1.200,00 insuficiente, utilizada também para despesas além de alimentação.",
+        "posicao_reclamada": "Diária paga conforme sindicato, para alimentação, com demais despesas cobertas pelo cartão corporativo."
+      },
+      {
+        "tema": "Dispensa Discriminatória",
+        "posicao_autor": "Dispensado por estar prestes a se submeter a uma cirurgia de coluna.",
+        "posicao_reclamada": "Procedimento padrão de dispensa, sem discriminação."
+      }
+    ],
+    "decisoes_audiencia": [
+      {
+        "tipo": "encerramento_instrucao",
+        "descricao": "Após oitiva das partes e testemunhas, a instrução foi encerrada."
+      }
+    ],
+    "observacoes_juiz": null,
+    "fase_processual": "Audiência de Instrução e Julgamento"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "case_id": "test_performance",
+  "path": "/Users/alexandre/Documents/projects/Automacao-IA-Sentencas-Juridicas/server/storage/rag_storage/processo_test_performance/chroma_db",
+  "collections": [
+    "estilo_juiza_test_performance",
+    "caso_atual_test_performance",
+    "contexto_dialogo_test_performance"
+  ],
+  "created_at": "2025-08-14T16:00:48.910651"
+}

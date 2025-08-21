@@ -1,0 +1,21 @@
+{
+  "dispositivos_clt": [
+    "Art. 7º da CF/88 - Direitos dos trabalhadores",
+    "Art. 59 da CLT - Horas extras",
+    "Art. 71 da CLT - Intervalo intrajornada",
+    "Art. 477 da CLT - Verbas rescisórias"
+  ],
+  "jurisprudencia_consolidada": [
+    "Súmula 85 do TST - Horas extras habituais",
+    "Súmula 437 do TST - Intervalo intrajornada",
+    "OJ 342 da SDI-1 do TST - Horas in itinere"
+  ],
+  "tipos_pedidos_comuns": [
+    "horas_extras",
+    "intervalo_intrajornada",
+    "verbas_rescisórias",
+    "danos_morais",
+    "adicional_noturno",
+    "dsr_sobre_horas"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "case_id": "e8b9c0ca-3ad4-42da-8aca-0abb83c059bc",
+  "path": "/Users/alexandre/Documents/projects/Automacao-IA-Sentencas-Juridicas/server/storage/rag_storage/processo_e8b9c0ca-3ad4-42da-8aca-0abb83c059bc/chroma_db",
+  "collections": [
+    "estilo_juiza_e8b9c0ca-3ad4-42da-8aca-0abb83c059bc",
+    "caso_atual_e8b9c0ca-3ad4-42da-8aca-0abb83c059bc",
+    "contexto_dialogo_e8b9c0ca-3ad4-42da-8aca-0abb83c059bc"
+  ],
+  "created_at": "2025-08-15T19:25:15.979325"
+}

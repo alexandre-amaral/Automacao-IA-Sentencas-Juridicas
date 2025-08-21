@@ -249,6 +249,31 @@ Redija a sentença completa agora:
 """
         
         return prompt
+
+    def gerar_resposta(self, prompt: str) -> str:
+        """Gera uma resposta livre do Claude usando o system prompt atual.
+
+        Args:
+            prompt: Prompt de usuário completo
+
+        Returns:
+            str: Texto de saída do modelo
+        """
+        try:
+            response = self.client.messages.create(
+                model=self.model,
+                max_tokens=self.max_tokens,
+                temperature=self.temperature,
+                system=self.system_prompt,
+                messages=[{
+                    "role": "user",
+                    "content": prompt
+                }]
+            )
+            return response.content[0].text
+        except Exception as e:
+            self.logger.error(f"Erro ao gerar resposta livre com Claude: {e}")
+            raise
     
     def gerar_fundamentacao_especifica(
         self, 

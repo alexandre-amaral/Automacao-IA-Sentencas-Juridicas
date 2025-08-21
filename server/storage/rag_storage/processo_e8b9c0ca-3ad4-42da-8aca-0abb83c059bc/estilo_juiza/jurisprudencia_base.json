@@ -1,0 +1,79 @@
+{
+  "sumulas_tst": [
+    {
+      "numero": "338",
+      "texto": "É ônus do empregador que conta com mais de 20 empregados o registro da jornada de trabalho.",
+      "aplicacao": "controle_jornada"
+    },
+    {
+      "numero": "264",
+      "texto": "A remuneração do serviço suplementar é composta do valor da hora normal, integrada por parcelas de natureza salarial.",
+      "aplicacao": "calculo_horas_extras"
+    },
+    {
+      "numero": "381",
+      "texto": "A correção monetária dos salários devidos aos trabalhadores tem como termo inicial o mês seguinte ao da prestação dos serviços.",
+      "aplicacao": "correcao_monetaria"
+    }
+  ],
+  "ojs_tst": [
+    {
+      "numero": "355",
+      "texto": "A supressão, ainda que parcial, do intervalo interjornada acarreta o pagamento integral do período suprimido como horas extras.",
+      "aplicacao": "intervalo_interjornada"
+    },
+    {
+      "numero": "415",
+      "texto": "Compensação dos valores já pagos nas horas extras deferidas.",
+      "aplicacao": "compensacao_valores"
+    }
+  ],
+  "decisoes_stf": [
+    {
+      "acao": "ADI 5322",
+      "data_julgamento": "30/08/2023",
+      "modulacao": "ex nunc",
+      "texto": "Declarou inconstitucional o fracionamento do intervalo interjornada para motoristas",
+      "aplicacao": "motoristas_intervalo"
+    },
+    {
+      "acao": "ADCs 58 e 59",
+      "data_julgamento": "2020",
+      "texto": "Taxa SELIC a partir da citação para juros e correção monetária",
+      "aplicacao": "juros_correcao"
+    }
+  ],
+  "clt_artigos": [
+    {
+      "artigo": "art. 818, I",
+      "texto": "Ônus da prova do empregado sobre fatos constitutivos do seu direito",
+      "aplicacao": "onus_prova"
+    },
+    {
+      "artigo": "art. 373, I, CPC",
+      "texto": "Ônus da prova de quem alega",
+      "aplicacao": "onus_prova_geral"
+    },
+    {
+      "artigo": "art. 235-C, §8º",
+      "texto": "Tempo de espera para motoristas",
+      "aplicacao": "tempo_espera_motoristas"
+    },
+    {
+      "artigo": "art. 790, §§3º e 4º",
+      "texto": "Justiça gratuita conforme renda",
+      "aplicacao": "justica_gratuita"
+    }
+  ],
+  "conectores_juridicos": [
+    "Analisa-se",
+    "Ante o exposto",
+    "Ocorre que",
+    "Dessa forma",
+    "Com base no exposto",
+    "Diante do exposto",
+    "Considerando que",
+    "Destarte",
+    "Outrossim"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "linguagem": {
+    "formal": true,
+    "tecnica": true,
+    "tempo_verbal": "presente_indicativo",
+    "conectores_tipicos": [
+      "Outrossim",
+      "Ademais",
+      "Destarte",
+      "Com efeito",
+      "Nesse sentido",
+      "Assim sendo",
+      "Por conseguinte",
+      "Nesta toada",
+      "De outra banda",
+      "Portanto"
+    ]
+  },
+  "estrutura_paragrafo": {
+    "introducao_topica": true,
+    "desenvolvimento_argumentativo": true,
+    "conclusao_transicional": true
+  },
+  "citacoes": {
+    "formato_dispositivos": "Art. {numero} da {lei}",
+    "formato_jurisprudencia": "Súmula {numero} do {tribunal}",
+    "formato_doutrina": "Conforme ensina {autor}"
+  },
+  "expressoes_recorrentes": [
+    "Vislumbro que",
+    "Destarte",
+    "É cediço que",
+    "Ademais",
+    "Nesse diapasão",
+    "Pelos fundamentos expostos"
+  ]
+}

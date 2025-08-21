@@ -1,0 +1,14 @@
+{
+  "etapa": "teste",
+  "perguntas_claude": [
+    "Qual o período contratual?",
+    "Quais os pedidos?"
+  ],
+  "respostas_gemini": {
+    "periodo": "0007890-12.2023.5.09.0020",
+    "pedidos": [
+      "Verbas rescisórias",
+      "Intervalo intrajornada"
+    ]
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "case_id": "f2af013c-0b06-4375-a3a5-8c437c58e1a2",
+  "path": "/Users/alexandre/Documents/projects/Automacao-IA-Sentencas-Juridicas/server/storage/rag_storage/processo_f2af013c-0b06-4375-a3a5-8c437c58e1a2/chroma_db",
+  "collections": [
+    "estilo_juiza_f2af013c-0b06-4375-a3a5-8c437c58e1a2",
+    "caso_atual_f2af013c-0b06-4375-a3a5-8c437c58e1a2",
+    "contexto_dialogo_f2af013c-0b06-4375-a3a5-8c437c58e1a2"
+  ],
+  "created_at": "2025-08-21T17:35:11.552857"
+}

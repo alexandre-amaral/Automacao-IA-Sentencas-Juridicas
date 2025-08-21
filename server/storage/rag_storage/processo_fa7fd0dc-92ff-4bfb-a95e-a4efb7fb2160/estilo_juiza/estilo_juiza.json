@@ -1,0 +1,65 @@
+{
+  "estrutura_sentenca": {
+    "formato_titulo": "SENTENÇA",
+    "secoes_principais": ["RELATÓRIO", "FUNDAMENTAÇÃO", "DISPOSITIVO"],
+    "sem_numeracao_romana": true,
+    "sem_hashtags_markdown": true
+  },
+  "estilo_relatorio": {
+    "formato_inicial": "[NOME] ajuizou a presente reclamação trabalhista em face de [EMPRESA]",
+    "incluir_qualificacao": "qualificado na inicial / qualificados nos autos",
+    "mencionar_valor_causa": true,
+    "estrutura_defesa": "A reclamada, em contestação (ID), defendeu-se alegando...",
+    "mencionar_audiencia": "Em audiência de instrução (Ata ID), foram ouvidas...",
+    "conclusao_relatorio": "É o relatório. Decide-se."
+  },
+  "estilo_fundamentacao": {
+    "analise_probatoria_detalhada": true,
+    "citacoes_jurisprudencia_especificas": true,
+    "mencionar_ids_documentos": true,
+    "analise_contraditorios_testemunhas": true,
+    "mencionar_provas_emprestadas": true,
+    "formato_topicos": "MAIÚSCULAS SEM NUMERAÇÃO"
+  },
+  "linguagem": {
+    "formal": true,
+    "tecnica": true,
+    "tempo_verbal": "presente_indicativo",
+    "conectores_tipicos": [
+      "Outrossim", "Ademais", "Destarte", "Com efeito", "Nesse sentido",
+      "Assim sendo", "Por conseguinte", "Nesta toada", "De outra banda",
+      "Portanto", "Ante o exposto", "Analisa-se", "Ocorre que",
+      "Considerando que", "Dessa forma", "Diante do exposto"
+    ]
+  },
+  "analise_probatoria": {
+    "formato_testemunha": "A testemunha [nome], Sr. [sobrenome], [contexto]",
+    "mencionar_contradições": true,
+    "referenciar_minutagem": true,
+    "comparar_versoes": true,
+    "avaliar_credibilidade": true
+  },
+  "citacoes_juridicas": {
+    "formato_dispositivos": "art. {numero} da {lei}",
+    "formato_jurisprudencia": "Súmula nº {numero} do {tribunal}",
+    "formato_oj": "Orientação Jurisprudencial nº {numero} da {sessao}",
+    "decisoes_stf": "ADI {numero}, julgamento em {data}",
+    "incluir_modulacao_temporal": true
+  },
+  "expressoes_especificas": [
+    "Analisa-se",
+    "Ante o exposto",
+    "É o relatório. Decide-se.",
+    "restou comprovado",
+    "não se desincumbiu",
+    "ônus da prova",
+    "art. 373, I, do CPC",
+    "art. 818, I, da CLT",
+    "julgo procedente/improcedente"
+  ],
+  "formatacao_valores": {
+    "usar_cifrao_escapado": true,
+    "formato": "R\\$ {valor}",
+    "incluir_id_documentos": true
+  }
+}

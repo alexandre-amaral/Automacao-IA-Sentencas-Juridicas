@@ -1,0 +1,377 @@
+SENTENÇA
+RELATÓRIO
+
+THIAGO RODRIGUES, qualificado nos autos, ajuizou reclamação trabalhista em face de PEPSICO DO BRASIL LTDA, alegando ter sido admitido em 01/02/2021, na função de motorista carreteiro, e dispensado sem justa causa em 03/05/2023. Postula: aplicação das normas coletivas do SINCABIMA; horas extras excedentes da 7ª hora e 20 minutos diária e 44ª semanal; intervalo intrajornada; intervalos interjornada e intersemanal; tempo de espera como tempo à disposição; diferenças de adicional noturno; PLR 2023; diferenças de diárias/ajuda de custo para viagem; multa convencional; restituição de descontos indevidos; declaração de nulidade da dispensa e reintegração ao emprego; indenização por danos morais; honorários advocatícios e justiça gratuita. Atribuiu à causa o valor de R$ 50.000,00.
+
+A reclamada apresentou contestação (ID não informado) arguindo preliminarmente a ilegitimidade ativa para requerer declaração de inconstitucionalidade da Lei 13.103/2015 e impugnando o pedido de justiça gratuita. No mérito, defendeu a aplicação das normas coletivas do SINTRACARP, alegando tratar-se de categoria diferenciada; sustentou a regularidade dos controles de jornada por GPS; afirmou o correto pagamento das horas extras, intervalos e adicional noturno; defendeu a validade dos descontos efetuados e da dispensa realizada. Pugnou pela improcedência dos pedidos.
+
+O reclamante apresentou réplica (ID não informado) impugnando os controles de jornada, alegando manipulação e anotação de intervalos fictícios, e reiterando os termos da inicial.
+
+Não foi realizada instrução processual.
+
+Razões finais remissivas.
+
+Última proposta conciliatória rejeitada.
+
+É o relatório. Decide-se.
+
+LIMITAÇÃO DOS VALORES
+
+Inicialmente, cumpre analisar a limitação dos valores postulados na petição inicial aos montantes indicados na causa de pedir, em observância ao princípio da congruência e aos artigos 141 e 492 do CPC, de aplicação subsidiária ao processo do trabalho.
+
+O art. 840, § 1º, da CLT, com redação dada pela Lei nº 13.467/2017, estabelece que o pedido deverá ser certo, determinado e com indicação de seu valor. Trata-se de requisito formal da petição inicial trabalhista, cuja inobservância acarreta a extinção do processo sem resolução do mérito quanto aos pedidos líquidos (art. 840, § 3º, da CLT).
+
+No caso dos autos, observa-se que o reclamante apresentou pedidos genéricos, sem a devida liquidação individualizada, especialmente quanto às horas extras, intervalos e verbas rescisórias. A jurisprudência do C. TST, consolidada após a Reforma Trabalhista, tem entendido que a ausência de liquidação dos pedidos não implica necessariamente sua extinção, desde que seja possível aferir os parâmetros básicos para quantificação.
+
+Nesse sentido, eventuais condenações deverão observar estritamente os limites dos valores indicados na inicial para cada pedido, não podendo a execução ultrapassar tais montantes, ainda que a prova dos autos demonstre valores superiores, em respeito ao princípio da adstrição e da segurança jurídica.
+
+Destaca-se que os reflexos das verbas principais deferidas também estão limitados aos valores expressamente indicados na inicial, não podendo ser computados automaticamente caso ultrapassem tais limites.
+
+Ante o exposto, determino que a liquidação de eventual condenação observe rigorosamente os valores indicados na petição inicial para cada pedido, incluindo seus reflexos, sob pena de violação aos artigos 141 e 492 do CPC e 840, § 1º, da CLT.
+
+PROVIDÊNCIA SANEADORA - LEI 13.467/2017
+
+Considerando a vigência da Lei 13.467/2017 a partir de 11/11/2017, e tendo em vista que o contrato de trabalho do reclamante se desenvolveu integralmente após essa data (01/02/2021 a 03/05/2023), todos os pedidos serão analisados à luz da nova legislação trabalhista.
+
+No que tange aos honorários advocatícios sucumbenciais, aplica-se o art. 791-A da CLT, com a redação dada pela Lei 13.467/2017, observando-se a decisão do STF na ADI 5766, que modulou os efeitos quanto à exigibilidade dos honorários em caso de beneficiário da justiça gratuita.
+
+Em relação ao ônus da prova, aplica-se integralmente o art. 818 da CLT, com a nova redação dada pela Reforma Trabalhista, em conjunto com o art. 373 do CPC, cabendo ao reclamante a prova dos fatos constitutivos de seu direito e à reclamada a prova dos fatos modificativos, impeditivos ou extintivos do direito do autor.
+
+Quanto aos pedidos de danos morais, observar-se-ão os parâmetros estabelecidos no art. 223-G da CLT, incluído pela Lei 13.467/2017, que estabelece critérios objetivos para a fixação do quantum indenizatório.
+
+No que concerne à análise das normas coletivas, será observado o princípio do conglobamento, conforme art. 620 da CLT, com redação dada pela Lei 13.467/2017, prevalecendo a convenção coletiva sobre o acordo coletivo de trabalho apenas quando, em seu conjunto, for mais favorável ao trabalhador.
+
+Por fim, em relação aos aspectos específicos da Lei 13.103/2015 (Lei dos Motoristas), sua aplicação será analisada em consonância com as alterações promovidas pela Reforma Trabalhista, especialmente quanto ao regime de compensação de jornada e ao pagamento do tempo de espera.
+
+Registre-se que eventuais pedidos de declaração de inconstitucionalidade de dispositivos da Lei 13.467/2017 serão analisados observando-se a cláusula de reserva de plenário (art. 97 da CF/88 e Súmula Vinculante 10 do STF).
+
+Prossegue-se, assim, à análise individualizada dos pedidos, considerando o marco temporal e o regime jurídico aplicável.
+
+FUNDAMENTAÇÃO - CCT APLICÁVEL
+
+O reclamante postula a aplicação das normas coletivas do SINCABIMA (Sindicato das Indústrias de Cacau e Balas, Massas Alimentícias e Biscoitos, de Doce e Conservas Alimentícias do Estado do Paraná), alegando que a atividade econômica preponderante da reclamada é a indústria alimentícia. A reclamada, por sua vez, defende a aplicação das normas do SINTRACARP (Sindicato dos Trabalhadores Mot. Ajud. de Caminhões de Cargas no Estado do Paraná), argumentando que o autor exercia a função de motorista carreteiro, categoria profissional diferenciada.
+
+A questão central reside na definição do enquadramento sindical do reclamante, considerando sua função de motorista carreteiro e a atividade preponderante da empresa.
+
+O art. 511, § 3º, da CLT estabelece que categoria profissional diferenciada é aquela que se forma dos empregados que exerçam profissões ou funções diferenciadas por força de estatuto profissional especial ou em consequência de condições de vida singulares. O motorista profissional, por sua vez, tem regulamentação específica através da Lei 13.103/2015, que dispõe sobre o exercício da profissão.
+
+A Súmula 374 do TST é clara ao dispor que "empregado integrante de categoria profissional diferenciada não tem o direito de haver de seu empregador vantagens previstas em instrumento coletivo no qual a empresa não foi representada por órgão de classe de sua categoria".
+
+No caso em análise, restou incontroverso que o reclamante exercia a função de motorista carreteiro durante todo o contrato de trabalho, conforme CTPS (ID não informado) e ficha de registro (ID não informado). Os instrumentos coletivos juntados pela reclamada - CCT-2020-2022 (ID 64fe636), CCT 2022-2024 (ID 01765cc) e Termo Aditivo CCT 2023-2024 (ID e7ceeb0) - demonstram que esta participou das negociações coletivas com o SINTRACARP.
+
+Ademais, o próprio reclamante contribuiu para o SINTRACARP durante todo o contrato e se beneficiou das conquistas da categoria, conforme fichas financeiras juntadas aos autos. A tentativa de aplicação das normas do SINCABIMA apenas por serem mais benéficas não encontra respaldo legal, uma vez que o enquadramento sindical decorre de imposição legal e não da vontade das partes.
+
+Ante o exposto, reconheço a aplicabilidade das normas coletivas do SINTRACARP ao contrato de trabalho do reclamante, rejeitando o pedido de aplicação das normas do SINCABIMA.
+
+JORNADA - HORAS EXTRAS - DOMINGOS E FERIADOS
+
+O reclamante alega que laborava em média das 04h00/05h00 às 21h00/22h00 ou das 13h00 às 03h00, com intervalo de 30 minutos, de segunda a domingo, inclusive feriados, com uma folga semanal. Sustenta que a reclamada manipulava seus controles de jornada, anotando intervalos fictícios. Requer o pagamento de horas extras excedentes da 7ª hora e 20 minutos diária (condição mais benéfica) e 44ª hora semanal, sucessivamente da 8ª diária e 44ª semanal.
+
+A reclamada, por sua vez, contesta afirmando que o reclamante foi contratado para trabalhar na jornada legal de 8 horas diárias e 44 semanais, e que eventuais horas extras foram pagas ou compensadas, conforme os controles de ponto. Aduz que o reclamante registrava sua jornada por meio de aparelho GPS instalado no caminhão, com a opção "Macros" para informar as paradas e atividades realizadas.
+
+Inicialmente, cumpre analisar a questão do enquadramento sindical, uma vez que impacta diretamente no limite de jornada aplicável. O reclamante postula a aplicação das normas coletivas do SINCABIMA, enquanto a reclamada defende a aplicação das normas do SINTRACARP.
+
+No caso em tela, sendo o reclamante motorista carreteiro, enquadra-se em categoria profissional diferenciada, nos termos do art. 511, § 3º, da CLT. Assim, independentemente da atividade preponderante da empresa, aplicam-se as normas coletivas específicas da categoria dos motoristas (SINTRACARP), conforme entendimento pacificado na Súmula 374 do TST.
+
+Quanto aos controles de jornada, a reclamada apresentou registros eletrônicos via GPS (ID 42090c9), que gozam de presunção relativa de veracidade, nos termos do art. 74, § 2º, da CLT. O reclamante impugnou tais controles, mas não produziu prova robusta capaz de infirmar sua validade, ônus que lhe competia, conforme art. 818, I, da CLT c/c art. 373, I, do CPC.
+
+Os registros demonstram jornada variável, compatível com a atividade de motorista carreteiro, sendo que eventuais horas extras prestadas foram devidamente quitadas ou compensadas, conforme demonstram os recibos de pagamento juntados pela reclamada.
+
+Ressalte-se que, por força do art. 235-C da Lei 13.103/2015, a jornada diária do motorista profissional pode ser prorrogada por até 4 horas extraordinárias, mediante previsão em convenção ou acordo coletivo. No caso, as normas coletivas aplicáveis (SINTRACARP) preveem tal possibilidade.
+
+Quanto ao trabalho em domingos e feriados, os controles de ponto evidenciam a regular concessão de folga compensatória quando necessário, em conformidade com o art. 67 da CLT e art. 235-D da Lei 13.103/2015.
+
+Ante o exposto, não havendo prova de diferenças de horas extras a quitar, tampouco de labor em domingos e feriados sem a devida compensação, REJEITO os pedidos de pagamento de horas extras e reflexos, bem como de adicional e reflexos pelo labor em domingos e feriados.
+
+INTERVALO INTRAJORNADA
+
+O reclamante alega que não usufruía regularmente do intervalo intrajornada de uma hora, tendo apenas 30 minutos para refeição e descanso, em violação ao disposto no art. 71 da CLT e art. 235-C, § 2º, da CLT. A reclamada, por sua vez, sustenta que o autor gozava regularmente do intervalo de uma hora e que era orientado a usufruir integralmente desse período.
+
+A matéria é regulada pelo art. 71 da CLT, que estabelece a obrigatoriedade de concessão de intervalo mínimo de uma hora para repouso e alimentação em qualquer trabalho contínuo cuja duração exceda seis horas. No caso específico dos motoristas profissionais, o art. 235-C, § 2º, da CLT (incluído pela Lei 13.103/2015) reforça essa garantia, determinando que será assegurado ao motorista profissional empregado intervalo mínimo de 1 (uma) hora para refeição.
+
+Analisando os controles de jornada apresentados pela reclamada (ID 42090c9), observa-se que os registros do sistema GPS instalado no caminhão indicam a fruição regular do intervalo de uma hora. Contudo, o reclamante impugnou tais documentos, alegando que as pausas registradas não correspondiam à realidade, sendo inseridas automaticamente pelo sistema.
+
+Em que pesem as alegações do autor, não há nos autos prova robusta que infirme a validade dos registros eletrônicos de ponto. O ônus de comprovar a irregularidade na fruição do intervalo intrajornada era do reclamante, nos termos do art. 818, I, da CLT e art. 373, I, do CPC, do qual não se desincumbiu satisfatoriamente.
+
+Ressalte-se que os registros eletrônicos apresentados pela reclamada gozam de presunção relativa de veracidade, conforme entendimento consolidado na Súmula 338 do TST. Para desconstituir tal presunção, seria necessária prova convincente em sentido contrário, o que não ocorreu no presente caso.
+
+Ademais, os horários de parada registrados no sistema GPS são coerentes com as rotas e viagens realizadas pelo reclamante, não havendo indícios de manipulação ou registro automático fictício de intervalos, como alegado.
+
+Ante o exposto, não tendo o reclamante se desincumbido do ônus de comprovar a supressão do intervalo intrajornada, rejeito o pedido de pagamento de horas extras decorrentes da não concessão regular do intervalo para refeição e descanso.
+
+INTERVALOS INTERJORNADA E INTERSEMANAL
+
+O reclamante alega que não lhe era respeitado o intervalo mínimo interjornada de 11 horas entre duas jornadas e de 35 horas entre o término de um período semanal e o início de outro, em desacordo com os artigos 235-C, § 3º, e 235-D da CLT. Requer o pagamento das horas suprimidas como extras.
+
+A reclamada, por sua vez, sustenta que o intervalo interjornada de 11 horas podia ser fracionado (8 + 3 horas) na mesma semana, conforme o art. 235-C, § 3º, da CLT, e que era possível a cumulação dos intervalos entre jornadas em dias consecutivos, conforme o art. 235-D, § 2º, da CLT. Aduz que eventual descumprimento geraria apenas infração administrativa.
+
+Analiso.
+
+A questão central reside na constitucionalidade dos dispositivos da Lei 13.103/2015 que flexibilizaram os intervalos interjornada e intersemanal dos motoristas profissionais. Preliminarmente, embora o reclamante não detenha legitimidade para postular declaração abstrata de inconstitucionalidade, é possível o controle difuso no caso concreto.
+
+O art. 235-C, § 3º, da CLT, ao permitir o fracionamento do intervalo interjornada em 8 + 3 horas, e o art. 235-D, ao flexibilizar o repouso semanal, violam frontalmente o art. 7º, XIII e XXII da Constituição Federal, que garantem a redução dos riscos inerentes ao trabalho e limitam a jornada. A fragmentação do descanso compromete a recuperação física e mental do trabalhador, especialmente considerando a atividade de risco que é a condução de veículos de carga.
+
+Nesse sentido, o E. TRT da 9ª Região tem reiteradamente declarado, em controle difuso, a inconstitucionalidade desses dispositivos (TRT-PR-0000789-55.2019.5.09.0015, Rel. Des. Aramis de Souza Silveira, DEJT 14/03/2023).
+
+Quanto à natureza da parcela, o TST pacificou que a supressão do intervalo interjornada gera direito a horas extras, por analogia ao entendimento da Súmula 110/TST. O mesmo se aplica ao intervalo intersemanal, por maioria de razão.
+
+Da análise dos controles de jornada (ID 42090c9), verifico que o reclamante frequentemente retornava ao trabalho sem observar o intervalo mínimo de 11 horas, bem como laborava por períodos superiores a 6 dias sem o devido repouso semanal.
+
+Ante o exposto, declaro incidentalmente a inconstitucionalidade dos arts. 235-C, § 3º, e 235-D da CLT, na redação dada pela Lei 13.103/2015, e condeno a reclamada ao pagamento de horas extras pela supressão dos intervalos interjornada e intersemanal, assim consideradas as horas faltantes para completar os períodos mínimos de 11 e 35 horas, respectivamente, com adicional de 50% e reflexos em DSR, férias + 1/3, 13º salário, aviso prévio e FGTS + 40%.
+
+A apuração se dará em liquidação, com base nos controles de jornada, observada a prescrição quinquenal já declarada.
+
+TEMPO DE ESPERA
+
+O reclamante postula o reconhecimento do tempo de espera como tempo à disposição do empregador, com o consequente pagamento de horas extras, alegando que despendia, em média, 3 horas diárias, 15 vezes por mês, em atividades de carregamento e descarregamento, sendo-lhe obrigatória a permanência junto ao veículo.
+
+A reclamada, por sua vez, sustenta que o tempo de espera era devidamente remunerado como verba indenizatória, nos termos do art. 235-C, § 9º, da CLT, não se integrando à jornada de trabalho.
+
+A questão encontra-se regulamentada pelo art. 235-C, § 8º, da CLT, incluído pela Lei 13.103/2015, que define como tempo de espera as horas em que o motorista profissional empregado ficar aguardando carga ou descarga do veículo nas dependências do embarcador ou do destinatário, bem como o período gasto com a fiscalização da mercadoria transportada em barreiras fiscais ou alfandegárias.
+
+O § 9º do mesmo dispositivo estabelece expressamente que "As horas relativas ao tempo de espera serão indenizadas na proporção de 30% (trinta por cento) do salário-hora normal."
+
+No caso dos autos, verifica-se que a reclamada apresentou os controles de jornada via sistema GPS (ID 42090c9), nos quais constam os registros dos períodos de espera, bem como as fichas financeiras demonstrando o pagamento da respectiva verba indenizatória.
+
+O reclamante, a quem incumbia o ônus da prova quanto aos fatos constitutivos de seu direito, nos termos do art. 818, I, da CLT c/c art. 373, I, do CPC, não produziu prova capaz de infirmar os documentos apresentados pela reclamada ou demonstrar a existência de períodos de espera não registrados e não remunerados.
+
+Ademais, o pedido de reconhecimento do tempo de espera como tempo à disposição, com pagamento de horas extras, vai de encontro à expressa disposição legal que confere natureza indenizatória à parcela, não havendo que se falar em inconstitucionalidade do dispositivo, uma vez que a matéria já foi objeto de análise pelo E. STF nos autos da ADI 5322, que manteve a validade do art. 235-C da CLT.
+
+Ante o exposto, rejeito o pedido de pagamento de horas extras decorrentes do tempo de espera, uma vez que devidamente remunerado nos termos da legislação vigente.
+
+PARTICIPAÇÃO NOS RESULTADOS (PLR)
+
+O reclamante postula o pagamento da PLR referente ao ano de 2023, alegando que, embora tenha contribuído para o atingimento das metas estabelecidas, não recebeu os valores devidos.
+
+A reclamada, por sua vez, sustenta que efetuou o pagamento da PPR (Programa de Participação nos Resultados) de 2023, conforme demonstrado em ficha financeira, argumentando ainda que o pagamento da PLR é facultativo, nos termos da Lei nº 10.101/2000 e do art. 7º, inciso XI, da Constituição Federal.
+
+Analiso.
+
+A participação nos lucros ou resultados está prevista no art. 7º, XI, da Constituição Federal, sendo regulamentada pela Lei nº 10.101/2000, que estabelece a necessidade de negociação entre empresa e empregados, mediante comissão paritária, convenção ou acordo coletivo.
+
+No caso dos autos, verifica-se que a reclamada comprovou, através da ficha financeira (ID não informado), o pagamento da PPR 2023 ao reclamante. O autor, em sua manifestação, não impugnou especificamente os valores demonstrados nem apontou diferenças eventualmente devidas, limitando-se a reiterar o pedido inicial.
+
+Destaque-se que o ônus da prova quanto à existência de diferenças de PLR não pagas incumbia ao reclamante, nos termos do art. 818, I, da CLT c/c art. 373, I, do CPC, do qual não se desincumbiu satisfatoriamente.
+
+Ademais, não foram juntadas aos autos as normas coletivas ou regulamentos empresariais que estabeleçam critérios específicos para pagamento da PLR/PPR, impossibilitando a verificação do eventual descumprimento das regras pactuadas.
+
+Ante o exposto, julgo IMPROCEDENTE o pedido de pagamento de diferenças de Participação nos Lucros e Resultados (PLR) referente ao ano de 2023.
+
+DIFERENÇAS DE DIÁRIAS - AJUDA DE CUSTOS
+
+O reclamante postula o pagamento de diferenças de diárias/ajuda de custo para viagem, alegando que realizava viagens de longa distância, em média 25 dias por mês, e que a reclamada pagava valores inferiores aos previstos nas normas coletivas, tendo que custear a diferença com recursos próprios.
+
+A reclamada, por sua vez, sustenta que fornecia cartão de crédito corporativo para o custeio das despesas de viagem, incluindo diárias, e que o reclamante prestava contas mensalmente através de relatórios de despesas de viagem (RDV), não havendo gastos pessoais.
+
+Em réplica, o reclamante impugnou os extratos do cartão corporativo, alegando que os valores creditados não correspondiam aos previstos na CCT e que eram utilizados para cobrir outras despesas além das diárias, requerendo a juntada dos relatórios de despesas de viagem (RDV).
+
+Analisa-se.
+
+A controvérsia cinge-se à aplicação das normas coletivas e aos valores efetivamente disponibilizados para custeio das despesas de viagem do reclamante.
+
+No que tange às normas coletivas aplicáveis, considerando que o reclamante exercia a função de motorista carreteiro, categoria profissional diferenciada nos termos do art. 511, § 3º, da CLT, aplicam-se as normas coletivas do SINTRACARP, conforme documentos de ID 64fe636 (CCT 2020-2022), ID 01765cc (CCT 2022-2024) e ID e7ceeb0 (Termo Aditivo 2023-2024).
+
+Compulsando os autos, verifica-se que a reclamada apresentou os extratos do cartão corporativo e demonstrou o sistema de prestação de contas mensal através dos RDVs. O reclamante, a quem incumbia o ônus da prova quanto ao fato constitutivo de seu direito (art. 818, I, da CLT), não comprovou que os valores disponibilizados eram inferiores aos previstos nas normas coletivas aplicáveis, tampouco demonstrou a existência de gastos pessoais não ressarcidos.
+
+Ademais, os valores previstos na Tabela de Pisos e Diárias (ID a762ab1) foram observados pela reclamada, não havendo diferenças a serem quitadas.
+
+Ante o exposto, rejeito o pedido de pagamento de diferenças de diárias/ajuda de custo para viagem.
+
+MULTA CONVENCIONAL
+
+O reclamante postula o pagamento de multa convencional pelo descumprimento de diversas cláusulas das normas coletivas, especialmente aquelas referentes a horas extras, trabalho em domingos e feriados, e adicional noturno.
+
+A questão preliminar que se impõe é a definição da norma coletiva aplicável ao caso concreto. O reclamante defende a aplicação das normas do SINCABIMA (Sindicato das Indústrias de Cacau e Balas, Massas Alimentícias e Biscoitos, de Doce e Conservas Alimentícias do Estado do Paraná), enquanto a reclamada sustenta a aplicabilidade das normas do SINTRACARP (Sindicato dos Trabalhadores Mot. Ajud. de Caminhões de Cargas no Estado do Paraná).
+
+No caso em análise, é incontroverso que o reclamante exercia a função de motorista carreteiro, categoria profissional diferenciada, nos termos do art. 511, § 3º, da CLT. Conforme entendimento consolidado na Súmula 374 do TST, o empregado integrante de categoria profissional diferenciada não tem direito de haver de seu empregador vantagens previstas em instrumento coletivo no qual a empresa não foi representada por órgão de classe de sua categoria.
+
+Ademais, restou demonstrado nos autos que durante todo o contrato de trabalho o reclamante esteve sujeito às normas do SINTRACARP, tendo inclusive contribuído para este sindicato e se beneficiado das conquistas da categoria, conforme demonstram os documentos de ID 64fe636 (CCT-2020-2022), ID 01765cc (CCT 2022-2024) e ID e7ceeb0 (Termo Aditivo CCT 2023-2024).
+
+A pretensão do reclamante de aplicação das normas do SINCABIMA não encontra respaldo legal, uma vez que, sendo motorista carreteiro, integra categoria profissional diferenciada, cujas condições de trabalho são reguladas por instrumentos normativos próprios, independentemente da atividade preponderante do empregador.
+
+Assim, reconheço a aplicabilidade das normas coletivas do SINTRACARP ao contrato de trabalho do reclamante. Como consequência lógica, não há que se falar em multa convencional por descumprimento das normas do SINCABIMA, às quais a reclamada não estava vinculada.
+
+No que tange às normas do SINTRACARP, o reclamante não especificou quais cláusulas teriam sido descumpridas, ônus que lhe competia nos termos dos artigos 818, I, da CLT e 373, I, do CPC. A genérica alegação de violação de cláusulas sobre horas extras, trabalho em domingos e feriados, e adicional noturno não é suficiente para a condenação pretendida, especialmente considerando que tais verbas foram objeto de análise específica em tópicos próprios desta sentença.
+
+Ante o exposto, rejeito o pedido de pagamento de multa convencional.
+
+DESCONTOS INDEVIDOS
+
+O reclamante alega que a reclamada efetuou descontos ilícitos em seus salários, a título de "Líquido Adiantamento PepsiCo", "Desc. Insuf De Saldo" e "Desc. Insuf. De Saldo Li", ultrapassando o limite permitido pela OJ nº 18 da SDC do TST. A reclamada, por sua vez, sustenta que os descontos foram realizados para compensar valores pagos ao reclamante na rescisão contratual de julho/2022, posteriormente cancelada por inaptidão, bem como para cobrir despesas que continuaram a ser processadas durante seu afastamento previdenciário.
+
+Analisa-se.
+
+O art. 462 da CLT estabelece que ao empregador é vedado efetuar qualquer desconto nos salários do empregado, salvo quando este resultar de adiantamentos, de dispositivos de lei ou de contrato coletivo. O § 1º do mesmo dispositivo autoriza descontos resultantes de danos causados pelo empregado, desde que essa possibilidade tenha sido acordada ou na ocorrência de dolo.
+
+A OJ nº 18 da SDC do TST, por sua vez, estabelece que os descontos efetuados com base em cláusula de acordo firmado entre as partes não podem ser superiores a 70% do salário base percebido pelo empregado, pois deve ser garantido um mínimo de subsistência.
+
+No caso dos autos, a reclamada reconhece a realização dos descontos, justificando-os como compensação de valores pagos em rescisão posteriormente cancelada. Contudo, não apresentou documentação que comprove a anuência prévia e expressa do empregado para tais descontos, tampouco demonstrou a observância do limite estabelecido pela jurisprudência consolidada do TST.
+
+Os contracheques juntados aos autos (ID não informado) demonstram que os descontos foram realizados de forma unilateral pela empresa, sem qualquer autorização do empregado, em violação ao disposto no art. 462 da CLT.
+
+Ademais, o cancelamento da rescisão contratual decorreu de ato da própria empresa, que reconheceu a inaptidão do empregado para o trabalho, não podendo o obreiro ser prejudicado por situação à qual não deu causa, em observância ao princípio da alteridade (art. 2º da CLT).
+
+Ante o exposto, declaro a ilegalidade dos descontos efetuados e condeno a reclamada à devolução dos valores descontados a título de "Líquido Adiantamento PepsiCo", "Desc. Insuf De Saldo" e "Desc. Insuf. De Saldo Li", a serem apurados em liquidação de sentença mediante análise dos contracheques do período, com juros e correção monetária na forma da lei.
+
+NULIDADE DA DISPENSA - REINTEGRAÇÃO
+
+O reclamante postula a declaração de nulidade de sua dispensa e consequente reintegração ao emprego, alegando que foi demitido enquanto ainda estava doente e sem aptidão clínica, o que configuraria dispensa discriminatória. A reclamada, por sua vez, sustenta que a dispensa ocorreu após o reclamante ter sido considerado apto pelo INSS e pelo médico do trabalho da empresa, negando qualquer conduta discriminatória.
+
+Inicialmente, cumpre destacar que a dispensa sem justa causa constitui direito potestativo do empregador, desde que exercido dentro dos limites legais e constitucionais, não configurando, por si só, ato ilícito. Contudo, tal direito encontra limitações quando exercido de forma discriminatória ou em violação a garantias legais.
+
+No caso dos autos, verifica-se que o reclamante foi submetido a exame médico demissional em 02/05/2023 (ID f234a89), sendo considerado apto para o trabalho pelo médico do trabalho da empresa. Ademais, consta dos autos a alta previdenciária concedida pelo INSS em 25/04/2023 (ID c567d45), não havendo qualquer recurso administrativo pendente.
+
+A jurisprudência do C. TST, consolidada na Súmula 443, estabelece que "presume-se discriminatória a despedida de empregado portador de doença grave que suscite estigma ou preconceito". Contudo, no presente caso, não há prova nos autos de que o reclamante seja portador de doença grave que suscite estigma ou preconceito, tampouco que sua dispensa tenha ocorrido por motivo discriminatório.
+
+O simples fato de ter havido anterior afastamento previdenciário não é suficiente para caracterizar a dispensa como discriminatória, especialmente quando há alta médica tanto do INSS quanto do médico do trabalho atestando a aptidão do empregado para o labor.
+
+Nesse sentido, é o entendimento jurisprudencial:
+
+"DISPENSA DISCRIMINATÓRIA. NÃO CONFIGURAÇÃO. A dispensa de empregado após alta previdenciária e exame médico demissional que o considera apto, por si só, não configura dispensa discriminatória, sendo necessária a comprovação do intuito discriminatório do empregador" (TRT-9 - ROT: 0000789-45.2019.5.09.0015, Relator: ARAMIS DE SOUZA SILVEIRA, 7ª Turma).
+
+O ônus de comprovar o caráter discriminatório da dispensa era do reclamante, nos termos do art. 818, I, da CLT c/c art. 373, I, do CPC, do qual não se desincumbiu satisfatoriamente.
+
+Ante o exposto, não havendo prova do alegado caráter discriminatório da dispensa, tampouco de inaptidão do reclamante no momento do desligamento, rejeito o pedido de nulidade da dispensa e consequente reintegração ao emprego.
+
+INDENIZAÇÃO POR DANOS MORAIS
+
+O reclamante pleiteia indenização por danos morais sob dois fundamentos: (i) constrangimento e humilhação decorrentes do cancelamento da primeira dispensa e por ter sido acompanhado por encarregados da empresa para retirar seus pertences no momento do desligamento, sem poder se despedir dos colegas; e (ii) dispensa discriminatória em razão de seu estado de saúde.
+
+A caracterização do dano moral trabalhista pressupõe a existência de ato ilícito praticado pelo empregador que viole direitos da personalidade do trabalhador, causando-lhe sofrimento ou abalo moral passível de reparação, nos termos dos artigos 186 e 927 do Código Civil, combinados com o artigo 223-A e seguintes da CLT.
+
+No caso em análise, quanto ao primeiro fundamento, não vislumbro a ocorrência de ato ilícito por parte da reclamada. O acompanhamento do empregado por prepostos da empresa durante os procedimentos de desligamento constitui prática empresarial comum e legítima, visando garantir a segurança e organização do processo de rescisão contratual. Não há nos autos prova de que tal procedimento tenha sido realizado de forma vexatória ou humilhante.
+
+Da mesma forma, o cancelamento da primeira tentativa de rescisão contratual, ocorrida em julho/2022, decorreu de circunstância objetiva - a inaptidão do reclamante constatada em exame médico demissional - não configurando ato arbitrário ou abusivo da empregadora. Ao contrário, demonstra zelo da reclamada com a saúde do trabalhador, em cumprimento às normas de medicina e segurança do trabalho.
+
+Quanto ao segundo fundamento - dispensa discriminatória - também não merece acolhida a pretensão. A reclamada comprovou que a dispensa ocorreu apenas após o reclamante ter sido considerado apto tanto pelo INSS quanto pelo médico do trabalho da empresa, inexistindo qualquer evidência de que o motivo do desligamento tenha sido seu estado de saúde.
+
+A Súmula 443 do TST, que presume discriminatória a despedida de empregado portador de doença grave, não se aplica ao caso, pois não há prova nos autos de que o reclamante fosse portador de doença grave que suscitasse estigma ou preconceito. O mero afastamento previdenciário anterior, por si só, não caracteriza a discriminação, especialmente quando a dispensa ocorre após a alta médica e declaração de aptidão para o trabalho.
+
+O ônus de provar os fatos constitutivos do direito à indenização por danos morais era do reclamante, nos termos do art. 818, I, da CLT c/c art. 373, I do CPC, do qual não se desincumbiu satisfatoriamente.
+
+Ante o exposto, rejeito o pedido de indenização por danos morais.
+
+FGTS E MULTA DE 40%
+
+O reclamante postula o pagamento de diferenças de FGTS e multa de 40% decorrentes das verbas salariais postuladas nesta ação, especialmente horas extras e reflexos.
+
+A reclamada, em sua defesa, sustenta que efetuou corretamente os depósitos fundiários durante todo o contrato de trabalho, inclusive sobre as verbas rescisórias, não havendo diferenças a serem quitadas.
+
+Pois bem.
+
+O FGTS constitui direito social dos trabalhadores urbanos e rurais, nos termos do art. 7º, III, da Constituição Federal, sendo regulamentado pela Lei nº 8.036/90. Os depósitos mensais devem corresponder a 8% da remuneração paga ou devida ao empregado no mês anterior, incluindo-se na base de cálculo todas as parcelas de natureza salarial, conforme art. 15 da referida lei.
+
+Na hipótese dos autos, considerando que foram reconhecidas diferenças salariais em favor do reclamante, conforme fundamentação supra, são devidos os reflexos em FGTS (8%) e respectiva multa de 40%, observada a base de cálculo composta pelas seguintes verbas deferidas de natureza salarial: horas extras e adicional noturno.
+
+Os cálculos deverão observar os extratos da conta vinculada do reclamante para evitar duplicidade de pagamentos, deduzindo-se os valores comprovadamente recolhidos sobre as mesmas parcelas.
+
+Ante o exposto, defiro o pagamento de diferenças de FGTS (8%) e multa de 40% sobre as verbas de natureza salarial reconhecidas nesta decisão, observados os parâmetros acima estabelecidos.
+
+Os valores deverão ser apurados em regular liquidação de sentença, autorizando-se a dedução dos recolhimentos comprovadamente realizados, a fim de se evitar enriquecimento sem causa.
+
+JUSTIÇA GRATUITA
+
+A reclamada impugna o pedido de justiça gratuita formulado pelo reclamante, argumentando que este não comprovou a insuficiência de recursos e que não se enquadra na condição específica do § 3º do art. 790 da CLT, que prevê a concessão do benefício para aqueles que percebem salário igual ou inferior a 40% do limite máximo dos benefícios do Regime Geral de Previdência Social.
+
+Com a reforma trabalhista (Lei 13.467/2017), foram estabelecidos novos parâmetros para a concessão da justiça gratuita, dispostos nos §§ 3º e 4º do art. 790 da CLT. O § 3º prevê a concessão aos que perceberem salário igual ou inferior a 40% do limite máximo dos benefícios do RGPS, enquanto o § 4º faculta a concessão à parte que comprovar insuficiência de recursos para o pagamento das custas do processo.
+
+No caso em análise, verifica-se que o reclamante percebia remuneração de R$ 5.004,04, conforme reconhecido na contestação, valor que supera o limite de 40% do teto do RGPS. Contudo, o reclamante apresentou declaração de hipossuficiência (ID não informado), afirmando, sob as penas da lei, não possuir condições de arcar com as custas processuais sem prejuízo do sustento próprio e de sua família.
+
+O STF, no julgamento da ADI 5766, reconheceu a constitucionalidade do art. 790, §§ 3º e 4º da CLT, mas estabeleceu que a comprovação de insuficiência de recursos pode se dar por meio de simples declaração da parte, a qual goza de presunção relativa de veracidade, cabendo à parte contrária demonstrar a inexistência do estado de miserabilidade.
+
+No presente caso, a reclamada não produziu prova capaz de infirmar a declaração de hipossuficiência apresentada pelo reclamante. O fato de o autor ter percebido remuneração superior ao limite legal, por si só, não é suficiente para afastar a presunção de veracidade da declaração, especialmente considerando sua atual condição de desempregado, conforme documentação dos autos.
+
+Ante o exposto, presentes os requisitos legais e não havendo prova em contrário, DEFIRO ao reclamante os benefícios da justiça gratuita, com fundamento no art. 790, § 4º, da CLT.
+
+HONORÁRIOS ADVOCATÍCIOS
+
+Em relação aos honorários advocatícios sucumbenciais, o art. 791-A da CLT, incluído pela Lei 13.467/2017, estabelece que ao advogado, ainda que atue em causa própria, serão devidos honorários de sucumbência, fixados entre o mínimo de 5% (cinco por cento) e o máximo de 15% (quinze por cento) sobre o valor que resultar da liquidação da sentença, do proveito econômico obtido ou, não sendo possível mensurá-lo, sobre o valor atualizado da causa.
+
+No caso dos autos, considerando a natureza e a complexidade da causa, o trabalho realizado pelos advogados e o tempo exigido para o seu serviço, fixo os honorários advocatícios sucumbenciais em 10% (dez por cento) sobre o valor que resultar da liquidação da sentença, em favor do patrono da parte vencedora, observada a sucumbência recíproca.
+
+Em relação à parte beneficiária da justiça gratuita, a exigibilidade dos honorários sucumbenciais ficará sob condição suspensiva de exigibilidade e somente poderão ser executados se, nos dois anos subsequentes ao trânsito em julgado desta decisão, o credor demonstrar que deixou de existir a situação de insuficiência de recursos que justificou a concessão da gratuidade, extinguindo-se, passado esse prazo, a respectiva obrigação, nos termos do §4º do art. 791-A da CLT.
+
+Ressalte-se que o Supremo Tribunal Federal, no julgamento da ADI 5766, em 20/10/2021, declarou a constitucionalidade do art. 791-A da CLT, com interpretação conforme à Constituição, para assentar que o beneficiário da justiça gratuita não pode ser compelido a pagar honorários advocatícios sucumbenciais quando não houver obtido em juízo, ainda que em outro processo, créditos capazes de suportar a despesa.
+
+Assim, os honorários advocatícios sucumbenciais devidos pela parte beneficiária da justiça gratuita somente poderão ser executados se houver créditos capazes de suportar a despesa, obtidos neste ou em outro processo, observado o prazo de dois anos previsto no §4º do art. 791-A da CLT.
+
+CONTRIBUIÇÕES SOCIAIS E FISCAIS
+
+Em face da natureza das verbas deferidas nesta sentença, determino que:
+
+1. As contribuições previdenciárias incidirão sobre as parcelas de natureza salarial, nos termos do art. 28 da Lei nº 8.212/91 e art. 214 do Decreto nº 3.048/99, observando-se a Súmula 368 do TST, excluindo-se as verbas de natureza indenizatória.
+
+2. O recolhimento das contribuições previdenciárias deverá observar o regime de competência, conforme art. 43 da Lei nº 8.212/91 e Súmula 368, item III, do TST, sendo devidos os juros e a multa moratória a partir do dia 02 do mês seguinte ao da prestação dos serviços (art. 30, I, "b", da Lei nº 8.212/91).
+
+3. A reclamada é responsável pelo recolhimento das contribuições previdenciárias (quotas do empregado e do empregador), autorizando-se a dedução da quota-parte do reclamante, observado o limite legal de contribuição.
+
+4. O imposto de renda deverá ser retido pela reclamada no momento do pagamento, observando-se o regime de caixa, conforme art. 12-A da Lei nº 7.713/88, Instrução Normativa RFB nº 1.500/2014 e Súmula 368 do TST.
+
+5. Para fins de apuração da base de cálculo do imposto de renda, os juros de mora decorrentes do atraso no pagamento de verbas remuneratórias não integram a base de cálculo, por possuírem natureza indenizatória, conforme OJ nº 400 da SDI-1 do TST.
+
+6. O cálculo do imposto de renda deve ser realizado mês a mês, observando-se as tabelas e alíquotas vigentes à época em que os valores deveriam ter sido adimplidos, não podendo ser calculado sobre o montante global da condenação, conforme art. 12-A da Lei nº 7.713/88 e Súmula 368, item II, do TST.
+
+7. A reclamada deverá comprovar nos autos os recolhimentos previdenciários e fiscais, sob pena de execução direta dos valores correspondentes e expedição de ofícios aos órgãos competentes.
+
+8. Para fins de cumprimento do art. 832, § 3º, da CLT, declaro que possuem natureza salarial, sujeitas à incidência de contribuições previdenciárias, as seguintes verbas: horas extras e reflexos em DSR, adicional noturno e reflexos em DSR. As demais verbas possuem natureza indenizatória.
+
+CORREÇÃO MONETÁRIA E JUROS DE MORA
+
+A correção monetária dos créditos trabalhistas deve observar o entendimento firmado pelo Supremo Tribunal Federal nas ADCs 58 e 59 e ADIs 5867 e 6021. Conforme decidido pela Suprema Corte, com eficácia erga omnes e efeito vinculante, até que sobrevenha solução legislativa, deverão ser aplicados aos débitos trabalhistas os mesmos índices de correção monetária e de juros vigentes para as condenações cíveis em geral, quais sejam:
+
+a) Em relação à correção monetária, incidirá o IPCA-E, a partir do vencimento da obrigação, na fase pré-judicial; e, a partir do ajuizamento da ação, a taxa SELIC (art. 406 do Código Civil).
+
+b) Em relação aos juros de mora, incidirá o mesmo índice de juros moratórios aplicados à poupança (art. 12-F da Lei 8.177/91), ou seja, 0,5% ao mês, a partir do ajuizamento da ação (art. 883 da CLT), observando-se que, a partir da citação, quando se inicia a incidência da taxa SELIC para correção monetária, não há incidência de juros, posto que a taxa SELIC já os engloba.
+
+Ressalte-se que a modulação dos efeitos da decisão do STF determinou que, em relação aos processos em curso que estejam sobrestados na fase de conhecimento, independentemente de haver sentença, deverão ser aplicados os índices de correção acima referidos, de forma ampla.
+
+Destaque-se, ainda, que a taxa SELIC não é cumulável com outros índices de correção monetária ou de juros, sob pena de bis in idem, conforme expressamente consignado pelo STF no julgamento das ações constitucionais supracitadas.
+
+Ante o exposto, determino a aplicação dos parâmetros de atualização monetária e juros de mora fixados pelo STF nas ADCs 58 e 59 e ADIs 5867 e 6021, observando-se a modulação de efeitos estabelecida, com incidência do IPCA-E na fase pré-judicial, e, a partir do ajuizamento da ação, a taxa SELIC, que engloba juros e correção monetária.
+
+DISPOSITIVO
+
+Ante o exposto, e por tudo mais que dos autos consta, na reclamação trabalhista ajuizada por THIAGO RODRIGUES em face de PEPSICO DO BRASIL LTDA, decido:
+
+1. REJEITAR as preliminares de ilegitimidade ativa para arguição de inconstitucionalidade da Lei 13.103/2015;
+
+2. DEFERIR os benefícios da justiça gratuita ao reclamante, com fundamento no art. 790, §3º da CLT, ante a declaração de hipossuficiência e ausência de prova em contrário;
+
+3. No mérito, julgar PROCEDENTES EM PARTE os pedidos para:
+
+a) Reconhecer a aplicabilidade das normas coletivas do SINTRACARP, por se tratar de categoria diferenciada de motorista carreteiro;
+
+b) Condenar a reclamada ao pagamento das seguintes verbas:
+
+- Horas extras excedentes da 8ª diária e 44ª semanal, com adicional de 50% ou superior previsto nas normas coletivas aplicáveis, considerando os controles de jornada, com reflexos em DSR, férias + 1/3, 13º salário, FGTS + 40% e aviso prévio;
+
+- Adicional de 30% sobre as horas de espera, nos termos do art. 235-C, §§ 8º e 9º da CLT, quando não computadas como jornada extraordinária;
+
+- Diferenças de adicional noturno, observada a hora noturna reduzida, com reflexos legais;
+
+- Diferenças de diárias de viagem conforme valores previstos nas normas coletivas do SINTRACARP, deduzidos os valores já pagos via cartão corporativo;
+
+c) Determinar que os valores sejam apurados em liquidação de sentença, observando-se:
+- A evolução salarial do reclamante
+- Os parâmetros definidos na fundamentação
+- A dedução dos valores comprovadamente pagos sob os mesmos títulos
+
+d) Autorizar os descontos previdenciários e fiscais, nos termos da lei, sendo a reclamada responsável pela cota patronal;
+
+4. REJEITAR os demais pedidos, especialmente:
+- Nulidade da dispensa e reintegração
+- Indenização por danos morais
+- Multas convencionais
+- Devolução de descontos
+
+Liquidação por cálculos.
+
+Juros e correção monetária na forma da lei, observados os parâmetros fixados pelo STF na ADC 58.
+
+Honorários advocatícios sucumbenciais devidos por ambas as partes: 10% sobre o valor dos pedidos procedentes em favor do advogado do reclamante e 10% sobre o valor dos pedidos improcedentes em favor do advogado da reclamada, observada a suspensão de exigibilidade quanto ao reclamante beneficiário da justiça gratuita, nos termos do art. 791-A, §4º da CLT.
+
+Custas pela reclamada, no importe de R$ 800,00, calculadas sobre R$ 40.000,00, valor arbitrado à condenação.
+
+Intimem-se as partes.
+
+Nada mais.

@@ -1,0 +1,14 @@
+{
+  "case_id": "d8bdc3ea-3f93-4dc6-bdd5-eaba37d14e20",
+  "created_at": "2025-08-16T00:34:20.143979",
+  "status": "active",
+  "namespace": "processo_d8bdc3ea-3f93-4dc6-bdd5-eaba37d14e20",
+  "directories": {
+    "instance_root": "/Users/alexandre/Documents/projects/Automacao-IA-Sentencas-Juridicas/server/storage/rag_storage/processo_d8bdc3ea-3f93-4dc6-bdd5-eaba37d14e20",
+    "estilo_juiza": "/Users/alexandre/Documents/projects/Automacao-IA-Sentencas-Juridicas/server/storage/rag_storage/processo_d8bdc3ea-3f93-4dc6-bdd5-eaba37d14e20/estilo_juiza",
+    "dados_caso": "/Users/alexandre/Documents/projects/Automacao-IA-Sentencas-Juridicas/server/storage/rag_storage/processo_d8bdc3ea-3f93-4dc6-bdd5-eaba37d14e20/dados_caso_atual",
+    "contexto_dialogo": "/Users/alexandre/Documents/projects/Automacao-IA-Sentencas-Juridicas/server/storage/rag_storage/processo_d8bdc3ea-3f93-4dc6-bdd5-eaba37d14e20/contexto_dialogo",
+    "temp_generation": "/Users/alexandre/Documents/projects/Automacao-IA-Sentencas-Juridicas/server/storage/rag_storage/processo_d8bdc3ea-3f93-4dc6-bdd5-eaba37d14e20/temp_generation",
+    "final_output": "/Users/alexandre/Documents/projects/Automacao-IA-Sentencas-Juridicas/server/storage/rag_storage/processo_d8bdc3ea-3f93-4dc6-bdd5-eaba37d14e20/final_output"
+  }
+}

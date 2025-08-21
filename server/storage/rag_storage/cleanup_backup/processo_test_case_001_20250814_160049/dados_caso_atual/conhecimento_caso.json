@@ -1,0 +1,41 @@
+{
+  "case_id": "test_case_001",
+  "timestamp": "2025-08-14T16:00:45.853274",
+  "processo": {
+    "numero": "0001234-56.2023.5.09.0010",
+    "partes": [
+      {
+        "nome": "João Silva",
+        "tipo": "requerente",
+        "qualificacao": ""
+      },
+      {
+        "nome": "Empresa A Ltda",
+        "tipo": "requerida",
+        "qualificacao": ""
+      }
+    ],
+    "pedidos": [
+      {
+        "descricao": "Horas extras",
+        "categoria": "verbas",
+        "valor_estimado": ""
+      },
+      {
+        "descricao": "Dano moral",
+        "categoria": "indenizacao",
+        "valor_estimado": ""
+      }
+    ],
+    "fatos_relevantes": [
+      {
+        "descricao": "Fato teste",
+        "fonte": "inicial"
+      }
+    ],
+    "periodo_contratual": "01/2022 a 12/2023",
+    "valor_causa": "R$ 10.000,00",
+    "fundamentacao_resumida": null
+  },
+  "audiencia": null
+}

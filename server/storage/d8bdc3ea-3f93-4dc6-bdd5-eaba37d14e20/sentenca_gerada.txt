@@ -1,0 +1,85 @@
+SENTENÇA
+
+RELATÓRIO
+
+THIAGO RODRIGUES, CPF: 006.838.439-40, residente na Rua Constante Moro Sobrinho, nº 1120, casa 195, Bairro Quississana, São José dos Pinhais - PR, ajuizou reclamação trabalhista em face de PEPSICO DO BRASIL LTDA., CNPJ: 31.565.104/0317-22, estabelecida na Rua Francisco Sobania, nº 1.395, Bairro CIC - Curitiba - PR, alegando ter sido admitido em 01/02/2021 na função de motorista carreteiro e dispensado sem justa causa em 03/05/2023. Postula o pagamento de horas extras, diferenças de diárias, PLR, nulidade da dispensa com reintegração e indenização por danos morais. Atribuiu à causa o valor de R$ 153.000,00.
+
+A reclamada, em contestação (ID 4e7ee51), defendeu-se alegando que o reclamante cumpria jornada regular de 8 horas diárias, com registro em sistema Positron, e que todas as horas extras foram devidamente pagas ou compensadas. Impugnou o pedido de justiça gratuita e pugnou pela improcedência total dos pedidos.
+
+O reclamante apresentou réplica impugnando os controles de jornada e reiterando os termos da inicial.
+
+Em audiência de instrução, foram ouvidas duas testemunhas: Vinícius, pelo reclamante, e Wesley, pela reclamada, sendo encerrada a instrução processual.
+
+Razões finais remissivas. Rejeitada a proposta final de conciliação.
+
+É o relatório. Decide-se.
+
+FUNDAMENTAÇÃO
+
+PRELIMINARES
+
+DA JUSTIÇA GRATUITA
+Considerando a declaração de hipossuficiência e o último salário do reclamante (R$ 5.004,04), inferior ao limite legal de 40% do teto do RGPS, defiro os benefícios da justiça gratuita, nos termos do art. 790, §3º da CLT.
+
+DA ILEGITIMIDADE ATIVA PARA DECLARAÇÃO DE INCONSTITUCIONALIDADE
+Acolho a preliminar. O controle concentrado de constitucionalidade é reservado aos legitimados do art. 103 da CF/88, não podendo ser exercido incidentalmente nesta ação individual.
+
+MÉRITO
+
+DO ENQUADRAMENTO SINDICAL
+O reclamante postula a aplicação das normas coletivas do SINCABIMA, enquanto a reclamada defende a aplicação das normas do Sindicato dos Motoristas. Considerando que o reclamante exercia a função de motorista carreteiro, categoria diferenciada nos termos do art. 511, §3º da CLT, aplicam-se as normas coletivas específicas desta categoria, conforme Súmula 374 do TST.
+
+DA JORNADA DE TRABALHO - HORAS EXTRAS
+O reclamante alega jornada das 04h00/05h00 às 21h00/22h00 ou das 13h00 às 03h00, com intervalo de 30 minutos. A reclamada apresentou controles de ponto (ID 42090c9) registrados via sistema Positron/GPS.
+
+Analisando a prova oral:
+- Testemunha Vinícius não prestou depoimento específico sobre jornada
+- Testemunha Wesley afirmou que o registro iniciava na chegada à empresa, com procedimentos iniciais de 15 minutos
+
+Os cartões de ponto apresentam registros variáveis, compatíveis com a atividade externa de motorista. Não há prova robusta de adulteração dos controles eletrônicos, ônus que incumbia ao reclamante (art. 818, I, CLT).
+
+DO TEMPO DE ESPERA
+O reclamante alega média de 3 horas diárias em atividades de carregamento/descarregamento. A reclamada comprova pagamento como verba indenizatória (art. 235-C, §9º, CLT).
+
+A testemunha Wesley afirmou que "normalmente não havia espera", contradizendo a versão do reclamante. Ausente prova do tempo alegado, mantenho os valores já pagos.
+
+DOS INTERVALOS INTRAJORNADA E INTERJORNADA
+O reclamante alega supressão do intervalo de 1 hora e desrespeito ao intervalo de 11 horas. Os controles de ponto registram intervalos regulares. A Lei 13.103/2015 permite o fracionamento do intervalo interjornada (8+3 horas).
+
+A testemunha Wesley confirmou o gozo regular do intervalo de 1 hora, não havendo prova em contrário.
+
+DAS DIFERENÇAS DE DIÁRIAS
+Convergem os depoimentos sobre o valor fixo de R$ 1.200,00 mensais. A testemunha Vinícius confirmou que os gastos mensais chegavam a R$ 1.700-2.000. A reclamada comprovou fornecimento de cartão corporativo com limite R$ 2.500,00 (IDs 3da6d52 e seguintes).
+
+DA PARTICIPAÇÃO NOS RESULTADOS
+A reclamada comprova pagamento da PPR 2023 em março/abril 2024. Pedido improcedente.
+
+DA NULIDADE DA DISPENSA - REINTEGRAÇÃO
+A testemunha Vinícius presenciou o primeiro desligamento e mencionou comentários sobre dispensa por questões de saúde. Contudo, a reclamada apresentou atestado de aptidão no retorno do auxílio-doença. Ausente prova de discriminação.
+
+DOS DANOS MORAIS
+Não comprovado constrangimento ou humilhação. O acompanhamento na retirada de pertences é procedimento padrão. Pedido improcedente.
+
+DOS DESCONTOS
+Os descontos questionados referem-se à compensação de valores da rescisão cancelada, com amparo no art. 462, §1º da CLT. Pedido improcedente.
+
+DISPOSITIVO
+
+Ante o exposto, na reclamação trabalhista ajuizada por THIAGO RODRIGUES em face de PEPSICO DO BRASIL LTDA., decido:
+
+1. Acolher a preliminar de ilegitimidade ativa para declaração de inconstitucionalidade;
+
+2. No mérito, julgar IMPROCEDENTES os pedidos formulados.
+
+Concedo ao reclamante os benefícios da justiça gratuita.
+
+Honorários advocatícios sucumbenciais de 5% sobre o valor da causa em favor do patrono da reclamada, observada a suspensão de exigibilidade (art. 791-A, §4º, CLT).
+
+Custas pelo reclamante, calculadas sobre R$ 153.000,00, no importe de R$ 3.060,00, dispensadas.
+
+Intimem-se as partes.
+
+[Cidade], [data].
+
+[Nome do Juiz]
+Juiz do Trabalho

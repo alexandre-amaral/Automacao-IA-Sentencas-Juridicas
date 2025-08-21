@@ -25,7 +25,7 @@ function ModernDropZone({ type, onDrop, file, onRemoveFile }: ModernDropZoneProp
   const [error, setError] = useState<string>('')
 
   const isProcesso = type === 'processo'
-  const acceptedFormats = isProcesso ? ['.pdf', '.docx', '.doc'] : ['.mp4', '.mp3', '.wav', '.m4a', '.aac']
+  const acceptedFormats = isProcesso ? ['.pdf', '.docx'] : ['.mp4', '.mp3', '.wav', '.m4a', '.aac']
   const acceptString = isProcesso ? acceptedFormats.join(',') : 'video/mp4,audio/mp3,audio/wav,audio/m4a,audio/aac,.mp4,.mp3,.wav,.m4a,.aac'
 
   const validateFile = (file: File): boolean => {
@@ -33,7 +33,7 @@ function ModernDropZone({ type, onDrop, file, onRemoveFile }: ModernDropZoneProp
     if (!extension) return false
 
     const validExtensions = isProcesso 
-      ? ['pdf', 'docx', 'doc'] 
+      ? ['pdf', 'docx'] 
       : ['mp4', 'mp3', 'wav', 'm4a', 'aac']
     
     return validExtensions.includes(extension)

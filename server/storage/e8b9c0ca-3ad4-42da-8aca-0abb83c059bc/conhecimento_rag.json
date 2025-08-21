@@ -1,0 +1,308 @@
+{
+  "case_id": "e8b9c0ca-3ad4-42da-8aca-0abb83c059bc",
+  "timestamp": "2025-08-15T19:25:04.514873",
+  "processo": {
+    "numero": "0000398-03.2024.5.09.0010",
+    "partes": [
+      {
+        "nome": "THIAGO RODRIGUES",
+        "tipo": "requerente",
+        "qualificacao": "brasileiro, casado, motorista, portador da cédula de identidade RG nº 71431657 - SESP-PR e inscrito no CPF sob nº 006.838.439-40, portador da CTPS nº 3815425, Série 003-0 - PR, inscrito no PIS sob nº 127.56648.53-3, residente e domiciliado na Rua Constante Moro Sobrinho, nº 1120, casa 195, Bairro Quississana, São José dos Pinhais - PR, CEP 83.085-300"
+      },
+      {
+        "nome": "PEPSICO DO BRASIL LTDA",
+        "tipo": "requerida",
+        "qualificacao": "pessoa jurídica de direito privado, inscrita no CNPJ sob o nº 31.565.104/0317-22, com endereço na Rua Francisco Sobania, nº 1.395, Bairro CIC - Curitiba - PR – CEP 81.460-130"
+      }
+    ],
+    "pedidos": [
+      {
+        "descricao": "Aplicação das normas coletivas CCT’s do SINCABIMA – Sindicato das Indústrias de Cacau e Balas, Massas Alimentícias e Biscoitos, de Doce e Conservas Alimentícias do Estado do Paraná.",
+        "categoria": "Enquadramento Sindical",
+        "valor_estimado": "R$ 5.000,00"
+      },
+      {
+        "descricao": "Pagamento de horas extras excedentes da 7h20min diária / 8ª diária e 44ª semanal.",
+        "categoria": "Horas Extras",
+        "valor_estimado": "R$ 40.000,00"
+      },
+      {
+        "descricao": "Pagamento de horas extras pela supressão do intervalo intrajornada (Art. 71 da CLT).",
+        "categoria": "Horas Extras - Intervalo Intrajornada",
+        "valor_estimado": "R$ 5.000,00"
+      },
+      {
+        "descricao": "Reconhecimento do tempo de espera como tempo à disposição e pagamento de horas extras com adicional e reflexos.",
+        "categoria": "Tempo de Espera",
+        "valor_estimado": "R$ 15.000,00"
+      },
+      {
+        "descricao": "Pagamento de diferenças de horas de tempo de espera (30% do salário-hora normal).",
+        "categoria": "Tempo de Espera",
+        "valor_estimado": "R$ 5.000,00"
+      },
+      {
+        "descricao": "Pagamento de horas extras pela violação dos intervalos interjornada (11 horas) e intersemanal (35 horas).",
+        "categoria": "Horas Extras - Intervalos Interjornada e Intersemanal",
+        "valor_estimado": "R$ 5.000,00"
+      },
+      {
+        "descricao": "Pagamento de diferenças de adicional noturno, com integração na remuneração e reflexos.",
+        "categoria": "Adicional Noturno",
+        "valor_estimado": "R$ 3.000,00"
+      },
+      {
+        "descricao": "Reflexos das horas extras em DSR, 13º salário, férias + 1/3, PPR, indenização (art. 9º, Lei 7.238/84), aviso prévio indenizado, FGTS + 40%.",
+        "categoria": "Reflexos Horas Extras",
+        "valor_estimado": "R$ 15.000,00"
+      },
+      {
+        "descricao": "Pagamento de diárias/ajuda de custo para viagem.",
+        "categoria": "Diárias de Viagem",
+        "valor_estimado": "R$ 10.000,00"
+      },
+      {
+        "descricao": "Pagamento de Participação nos Resultados (PPR) proporcional de 2023.",
+        "categoria": "Participação nos Lucros e Resultados",
+        "valor_estimado": "R$ 2.000,00"
+      },
+      {
+        "descricao": "Pagamento de multa convencional.",
+        "categoria": "Multa Convencional",
+        "valor_estimado": "R$ 3.000,00"
+      },
+      {
+        "descricao": "Ressarcimento de descontos indevidos (\"Líquido Adiantamento PepsiCo\", \"Desc. Insuf De Saldo\", \"Desc. Insuf. De Saldo Li\").",
+        "categoria": "Descontos Indevidos",
+        "valor_estimado": "R$ 25.000,00"
+      },
+      {
+        "descricao": "Nulidade da dispensa e reintegração ao emprego.",
+        "categoria": "Nulidade da Dispensa / Reintegração",
+        "valor_estimado": null
+      },
+      {
+        "descricao": "Indenização em dobro pela dispensa.",
+        "categoria": "Nulidade da Dispensa / Indenização",
+        "valor_estimado": "R$ 25.000,00"
+      },
+      {
+        "descricao": "Indenização por danos morais (constrangimento e humilhação).",
+        "categoria": "Dano Moral",
+        "valor_estimado": "R$ 10.000,00"
+      },
+      {
+        "descricao": "Indenização por danos morais (dispensa discriminatória).",
+        "categoria": "Dano Moral - Dispensa Discriminatória",
+        "valor_estimado": "R$ 10.000,00"
+      },
+      {
+        "descricao": "Concessão da assistência judiciária gratuita.",
+        "categoria": "Justiça Gratuita",
+        "valor_estimado": null
+      },
+      {
+        "descricao": "Honorários de sucumbência (15% do valor da condenação).",
+        "categoria": "Honorários Advocatícios",
+        "valor_estimado": "R$ 20.000,00"
+      }
+    ],
+    "fatos_relevantes": [
+      {
+        "descricao": "Reclamante trabalhava em média das 04h00/05h00 às 21h00/22h00 ou das 13h00 às 03h00, com intervalo de 00h30min, de segunda a domingo, inclusive feriados, com uma folga semanal.",
+        "fonte": "inicial"
+      },
+      {
+        "descricao": "Reclamada manipulava os controles de jornada, anotando intervalos fictícios.",
+        "fonte": "inicial"
+      },
+      {
+        "descricao": "Reclamante despendia 3 horas, 15 vezes por mês, em tempo de espera para carregamento e descarregamento.",
+        "fonte": "inicial"
+      },
+      {
+        "descricao": "Reclamante não usufruía do intervalo intrajornada mínimo de 1 hora.",
+        "fonte": "inicial"
+      },
+      {
+        "descricao": "Reclamante não usufruía dos intervalos interjornada (11 horas) e intersemanal (35 horas).",
+        "fonte": "inicial"
+      },
+      {
+        "descricao": "Reclamada não efetuava o pagamento correto do adicional noturno e da redução da hora noturna.",
+        "fonte": "inicial"
+      },
+      {
+        "descricao": "Reclamante não recebeu PPR de 2023.",
+        "fonte": "inicial"
+      },
+      {
+        "descricao": "Reclamada pagava diárias de viagem em valor inferior ao previsto nas normas coletivas e sem correspondência com os dias efetivamente viajados.",
+        "fonte": "inicial"
+      },
+      {
+        "descricao": "Reclamada efetuou descontos ilícitos, ultrapassando o limite de 70% do salário base.",
+        "fonte": "inicial"
+      },
+      {
+        "descricao": "Reclamante foi dispensado enquanto doente e sem aptidão clínica, caracterizando dispensa discriminatória.",
+        "fonte": "inicial"
+      },
+      {
+        "descricao": "Reclamante sofreu constrangimento e humilhação por parte da reclamada.",
+        "fonte": "inicial"
+      },
+      {
+        "descricao": "Reclamada alega que o reclamante estava enquadrado em categoria profissional diferenciada e que as normas coletivas do SINCABIMA não se aplicam.",
+        "fonte": "defesa"
+      },
+      {
+        "descricao": "Reclamada alega que os controles de jornada refletem a jornada correta e que as horas extras foram pagas.",
+        "fonte": "defesa"
+      },
+      {
+        "descricao": "Reclamada alega que o tempo de espera foi pago corretamente como verba indenizatória e não pode ser considerado como hora extra.",
+        "fonte": "defesa"
+      },
+      {
+        "descricao": "Reclamada alega que o reclamante usufruía do intervalo intrajornada.",
+        "fonte": "defesa"
+      },
+      {
+        "descricao": "Reclamada alega que respeitou os intervalos interjornada e intersemanal, conforme legislação aplicável a motoristas.",
+        "fonte": "defesa"
+      },
+      {
+        "descricao": "Reclamada alega que o adicional noturno foi pago corretamente, considerando a redução da hora noturna.",
+        "fonte": "defesa"
+      },
+      {
+        "descricao": "Reclamada alega que o reclamante recebeu a PPR de 2023.",
+        "fonte": "defesa"
+      },
+      {
+        "descricao": "Reclamada alega que as despesas de viagem eram custeadas por cartão de crédito corporativo e que o reclamante não teve gastos pessoais.",
+        "fonte": "defesa"
+      },
+      {
+        "descricao": "Reclamada justifica os descontos como sendo legais e referentes a um adiantamento salarial pago em uma rescisão cancelada.",
+        "fonte": "defesa"
+      },
+      {
+        "descricao": "Reclamada alega que a dispensa não foi discriminatória e que o reclamante estava apto para o trabalho no momento da rescisão.",
+        "fonte": "defesa"
+      },
+      {
+        "descricao": "Reclamada nega que o reclamante tenha sofrido constrangimento ou humilhação.",
+        "fonte": "defesa"
+      },
+      {
+        "descricao": "Testemunha Claudinei afirma que os motoristas trabalhavam em média das 05h00 às 22h00, com intervalo de 30 minutos, 6 dias por semana.",
+        "fonte": "prova_emprestada"
+      },
+      {
+        "descricao": "Testemunha Claudinei afirma que o tempo de espera, descanso e refeição eram registrados no sistema Pósitron.",
+        "fonte": "prova_emprestada"
+      },
+      {
+        "descricao": "Testemunha Claudinei relata que os motoristas chegavam 1 hora antes do início da jornada para realizar atividades não registradas no Pósitron e que, após o fim da jornada, levavam 1 hora para levar o caminhão ao estacionamento e entregar a documentação.",
+        "fonte": "prova_emprestada"
+      },
+      {
+        "descricao": "Testemunha Claudinei afirma que foi constrangido no seu desligamento por ter sido acompanhado por alguém da empresa para pegar seus pertences e impedido de se despedir dos colegas.",
+        "fonte": "prova_emprestada"
+      },
+      {
+        "descricao": "Testemunha Clodoaldo afirma que os motoristas registravam o início e fim da jornada, intervalos e tempo de espera no rastreador.",
+        "fonte": "prova_emprestada"
+      },
+      {
+        "descricao": "Testemunha Clodoaldo relata que os motoristas chegavam 1 hora antes do início da jornada para realizar atividades não registradas no rastreador e que, após o fim da jornada, levavam 1 hora para levar o caminhão ao pátio e entregar a documentação.",
+        "fonte": "prova_emprestada"
+      },
+      {
+        "descricao": "Testemunha Clodoaldo afirma que os motoristas tinham intervalo de refeição de 1 hora, mas que ele geralmente fazia apenas 30 minutos.",
+        "fonte": "prova_emprestada"
+      },
+      {
+        "descricao": "Testemunha Clodoaldo relata que foi acompanhado por alguém da empresa para tirar seus pertences do caminhão no momento do desligamento e que não pôde se despedir dos colegas, sentindo-se como um \"bandido\".",
+        "fonte": "prova_emprestada"
+      },
+      {
+        "descricao": "Testemunha Vinícius Nunes Batista confirma a jornada de trabalho alegada na inicial e que o reclamante era impedido de sair do veículo, mesmo nos intervalos.",
+        "fonte": "testemunha_autor"
+      },
+      {
+        "descricao": "Testemunha Wesley dos Santos Nogueira contesta a jornada de trabalho alegada na inicial e afirma que o reclamante tinha autonomia para realizar suas pausas e intervalos.",
+        "fonte": "testemunha_réu"
+      }
+    ],
+    "periodo_contratual": "01/02/2021 a 03/05/2023",
+    "valor_causa": "R$ 153.000,00",
+    "fundamentacao_resumida": null
+  },
+  "audiencia": {
+    "depoentes": [
+      {
+        "nome": "Tiago",
+        "tipo": "autor",
+        "resumo_depoimento": "Alega jornada extensa, chegando às 5h e saindo às 21h, com espera não remunerada de 3 a 4 horas para carregamento.  Registrava a jornada apenas ao sair do portão da fábrica. Intervalos de 30 minutos para refeição e mais 2 a 3 intervalos de 30 minutos, registrados no pósitron. Discrepância entre horas extras registradas e recebidas. Diária de R$1200,00 mensal, utilizada para alimentação e despesas como borracharia e lavagem, com reembolso pela empresa. Utilização de bitrem por um ano, inclusive à noite em rodovias duplicadas. Dois desligamentos, o primeiro cancelado, com alegação de discriminação por conta de cirurgia na coluna."
+      },
+      {
+        "nome": "Vinícius",
+        "tipo": "testemunha_autor",
+        "resumo_depoimento": "Confirma diária mensal de R$1200,00 via cartão corporativo, utilizada para alimentação e higiene, valor inferior ao pago pelo sindicato. Confirma uso do cartão para borracharia e lavagem, com diárias pagas separadamente. Abastecimento por CTF e pedágio por TAG. Relatório de viagem mensal com média de 26 dias. Comentários sobre o desligamento do autor devido à cirurgia na coluna, com conhecimento da empresa sobre sua incapacidade."
+      },
+      {
+        "nome": "Wesley",
+        "tipo": "testemunha_reclamada",
+        "resumo_depoimento": "Registro de jornada na chegada à empresa, via aplicativo ou pósitron. Espera ocorria por carga não carregada, documentação ou manutenção.  Intervalo obrigatório de 4h de direção e 30min de descanso, com penalidades por descumprimento. Viagem mais longa para Pelotas, com pernoite em Três Cachoeiras. Viagem mais curta para Gaspar. Respeito ao intervalo de 11h entre jornadas. Sem divergências entre horas extras anotadas e pagas. Diárias via cartão corporativo, com prestação de contas, valor baseado no sindicato, utilizado para alimentação, com reembolso de banho, hotel e despesas com veículo. Procedimento padrão de desligamento com acompanhamento até o portão."
+      },
+      {
+        "nome": "Mariane",
+        "tipo": "advogado_autor",
+        "resumo_depoimento": "Realiza perguntas sobre jornada, diárias, dispensa e danos morais."
+      },
+      {
+        "nome": "Mônica",
+        "tipo": "advogado_reclamada",
+        "resumo_depoimento": "Realiza perguntas sobre jornada, diárias e dispensa."
+      },
+      {
+        "nome": "Juiz/Magistrado",
+        "tipo": "juiz",
+        "resumo_depoimento": "Conduz a audiência, colhe depoimentos e esclarece dúvidas."
+      }
+    ],
+    "pontos_controvertidos": [
+      {
+        "tema": "Jornada de Trabalho",
+        "posicao_autor": "Jornada extensa com espera não remunerada de 3 a 4 horas.",
+        "posicao_reclamada": "Registro de jornada na chegada à empresa, com espera apenas em situações específicas."
+      },
+      {
+        "tema": "Intervalos",
+        "posicao_autor": "Intervalos de 30 minutos para refeição e mais 2 a 3 intervalos de 30 minutos.",
+        "posicao_reclamada": "Intervalos obrigatórios de 4h de direção e 30min de descanso, com penalidades por descumprimento."
+      },
+      {
+        "tema": "Diárias",
+        "posicao_autor": "Diária de R$1200,00 mensal, utilizada para alimentação e despesas extras, com reembolso.",
+        "posicao_reclamada": "Diárias via cartão corporativo, valor baseado no sindicato, para alimentação, com reembolso de outras despesas."
+      },
+      {
+        "tema": "Dispensa Discriminatória",
+        "posicao_autor": "Desligamento discriminatório devido à cirurgia na coluna.",
+        "posicao_reclamada": "Procedimento padrão de desligamento."
+      }
+    ],
+    "decisoes_audiencia": [
+      {
+        "tipo": "encerramento_instrucao",
+        "descricao": "A audiência foi encerrada após a oitiva das partes e testemunhas."
+      }
+    ],
+    "observacoes_juiz": null,
+    "fase_processual": "Instrução"
+  }
+}

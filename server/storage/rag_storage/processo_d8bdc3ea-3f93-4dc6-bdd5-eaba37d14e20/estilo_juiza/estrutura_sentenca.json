@@ -1,0 +1,32 @@
+{
+  "sections": {
+    "relatorio": {
+      "title": "I - RELATÓRIO",
+      "order": 1,
+      "subsections": [
+        "Identificação das partes",
+        "Síntese da petição inicial",
+        "Síntese da contestação",
+        "Síntese da instrução probatória"
+      ]
+    },
+    "fundamentacao": {
+      "title": "II - FUNDAMENTAÇÃO",
+      "order": 2,
+      "subsections": [
+        "Das Preliminares",
+        "Das Prejudiciais de Mérito",
+        "Do Mérito"
+      ]
+    },
+    "dispositivo": {
+      "title": "III - DISPOSITIVO",
+      "order": 3,
+      "subsections": [
+        "Decisão final",
+        "Condenações específicas",
+        "Custas e honorários"
+      ]
+    }
+  }
+}
